@@ -1,0 +1,4777 @@
+[
+  {
+    "product_id": "abdominal_belt",
+    "name": "Abdominal Belt",
+    "brand": "Cure",
+    "body_part": "Abdominal",
+    "sub_cat": "Abdominal",
+    "short_desc": "Tynor Abdominal Belt is designed to help tone and shape the abdominal area, especially after pregnancy. It provides firm compression to support the waistline, improve muscle tone, and help you get bac",
+    "rating": 4.5,
+    "image_url": "",
+    "prices": {
+      "Small": 400,
+      "Medium": 500,
+      "Large": 600,
+      "XL": 700,
+      "XXL": 800
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock",
+      "XXL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "abdominal_support_9\"_23cm",
+    "name": "Abdominal Support 9\"/23cm",
+    "brand": "Cure",
+    "body_part": "Abdominal",
+    "sub_cat": "Abdominal",
+    "short_desc": "Tynor Abdominal Support is designed to support your core when it needs it the most—after surgery, post-delivery, or during abdominal weakness. It provides firm yet comfortable compression to reduce st",
+    "rating": 4.2,
+    "image_url": "",
+    "prices": {
+      "Small": 900,
+      "Medium": 1000,
+      "Large": 1100,
+      "XL": 1200,
+      "XXL": 1300
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock",
+      "XXL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "hernia_belt",
+    "name": "Hernia Belt",
+    "brand": "Cure",
+    "body_part": "Abdominal",
+    "sub_cat": "Hernia belt",
+    "short_desc": "Tynor Hernia Belt is scientifically designed to provide gentle and effective support for inguinal hernia. It applies controlled pressure to the affected area, helping reduce the protrusion, relieve di",
+    "rating": 4.4,
+    "image_url": "",
+    "prices": {
+      "Small": 700,
+      "Medium": 800,
+      "Large": 900,
+      "XL": 1000
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "pregnancy_support",
+    "name": "Pregnancy support",
+    "brand": "Cure",
+    "body_part": "Abdominal",
+    "sub_cat": "Pregnancy support",
+    "short_desc": "Tynor Pregnancy Belt is designed to support the abdomen during pregnancy, assist in maintaining posture, and help reduce strain on the lower back during daily activities.",
+    "rating": 4.5,
+    "image_url": "",
+    "prices": {
+      "Small": 650,
+      "Medium": 700,
+      "Large": 750,
+      "XL": 800,
+      "XXL": 850
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock",
+      "XXL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "scrotal_support",
+    "name": "Scrotal Support",
+    "brand": "Cure",
+    "body_part": "Abdominal",
+    "sub_cat": "Scrotal Support",
+    "short_desc": "Tynor Scrotal Support provides effective lifting and support to the scrotal sac, reducing discomfort, ensuring stability, and promoting healing during daily activities.",
+    "rating": 4.3,
+    "image_url": "",
+    "prices": {
+      "Small": 950,
+      "Medium": 1050,
+      "Large": 1150,
+      "XL": 1250
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "abs_support_(neo)",
+    "name": "Abs Support (Neo)",
+    "brand": "Sport",
+    "body_part": "Abdominal",
+    "sub_cat": "Abdominal",
+    "short_desc": "",
+    "rating": 4.8,
+    "image_url": "",
+    "prices": {
+      "One Size": 650
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "athletics_support_brief",
+    "name": "Athletics Support Brief",
+    "brand": "Sport",
+    "body_part": "Abdominal",
+    "sub_cat": "Brief & trunk",
+    "short_desc": "Tynor Athletic Supporter (Brief Type) is designed to provide focused scrotal support, minimize unwanted movement, and enhance stability during high-impact sports and physical activities.",
+    "rating": 4.2,
+    "image_url": "",
+    "prices": {
+      "Small": 450,
+      "Medium": 500,
+      "Large": 550,
+      "XL": 600
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "athletics_support_trunk",
+    "name": "Athletics Support Trunk",
+    "brand": "Sport",
+    "body_part": "Abdominal",
+    "sub_cat": "Brief & trunk",
+    "short_desc": "Tynor Athletic Supporter (Trunk Type) is designed to provide firm scrotal support, minimize unwanted movement, and enhance stability during high-impact sports and physical activities.",
+    "rating": 4.4,
+    "image_url": "",
+    "prices": {
+      "Small": 550,
+      "Medium": 650,
+      "Large": 750,
+      "XL": 850
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "l_guard",
+    "name": "L Guard",
+    "brand": "Sport",
+    "body_part": "Abdominal",
+    "sub_cat": "L Guard",
+    "short_desc": "Tynofit Abdominal (L) Guard provides reliable protection to the groin and lower abdomen during high-impact sports. Designed for comfort and safety, it absorbs shock, reduces injury risk, and allows at",
+    "rating": 4.4,
+    "image_url": "",
+    "prices": {
+      "Small": 450,
+      "Medium": 500,
+      "Large": 550,
+      "XL": 600
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "air_ankle_splint",
+    "name": "Air Ankle Splint",
+    "brand": "Cure",
+    "body_part": "Ankle",
+    "sub_cat": "Ankle brace",
+    "short_desc": "Tynor Air Ankle Splint is designed to provide rigid immobilization and superior stability to the ankle during injury recovery. It limits unwanted lateral movement while offering adjustable compression",
+    "rating": 4.4,
+    "image_url": "",
+    "prices": {
+      "One Size": 1300
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "ankle_binder",
+    "name": "Ankle Binder",
+    "brand": "Cure",
+    "body_part": "Ankle",
+    "sub_cat": "Ankle Binder",
+    "short_desc": "Tynor Ankle Binder provides firm support and effective compression to stabilize the ankle, relieve pain, and reduce swelling. It helps prevent injuries and supports faster recovery, ensuring confident",
+    "rating": 4.5,
+    "image_url": "",
+    "prices": {
+      "Small": 350,
+      "Medium": 400,
+      "Large": 450,
+      "XL": 500
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "ankle_brace",
+    "name": "Ankle Brace",
+    "brand": "Cure",
+    "body_part": "Ankle",
+    "sub_cat": "Ankle brace",
+    "short_desc": "Tynor Ankle Brace is designed to provide strong support and stability for injured or weak ankles. It helps control unwanted movements, reduce pain and swelling, and support faster recovery. The struct",
+    "rating": 4.5,
+    "image_url": "",
+    "prices": {
+      "Small": 1250,
+      "Medium": 1300,
+      "Large": 1350,
+      "XL": 1400
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "ankle_splint",
+    "name": "Ankle Splint",
+    "brand": "Cure",
+    "body_part": "Ankle",
+    "sub_cat": "Ankle brace",
+    "short_desc": "Tynor Ankle Splint is designed to provide effective immobilization and stability to the ankle, helping prevent further injury while supporting faster recovery. Its ergonomic design ensures a secure an",
+    "rating": 4.4,
+    "image_url": "",
+    "prices": {
+      "One Size": 950
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "ankle_wrap_sleek_elastic",
+    "name": "Ankle Wrap Sleek Elastic",
+    "brand": "Cure",
+    "body_part": "Ankle",
+    "sub_cat": "Ankle support",
+    "short_desc": "Tynor Ankle Wrap Sleek Elastic is designed to provide light support and stability for everyday ankle discomfort or minor sprains. It helps reduce strain, improve joint control, and support movement du",
+    "rating": 4.3,
+    "image_url": "",
+    "prices": {
+      "One Size": 400
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "anklet_comfeel_pair",
+    "name": "Anklet Comfeel Pair",
+    "brand": "Cure",
+    "body_part": "Ankle",
+    "sub_cat": "Ankle support",
+    "short_desc": "Tynor Anklet Comfeel is designed to provide gentle support and comfort for everyday ankle pain, stiffness, or fatigue, along with supreme comfort and softness. It helps improve circulation and provide",
+    "rating": 4.5,
+    "image_url": "",
+    "prices": {
+      "Small": 400,
+      "Medium": 500,
+      "Large": 600,
+      "XL": 700,
+      "XXL": 800
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock",
+      "XXL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "anklet_pair",
+    "name": "Anklet Pair",
+    "brand": "Cure",
+    "body_part": "Ankle",
+    "sub_cat": "Ankle support",
+    "short_desc": "Tynor Anklet is designed to provide mild compression and reliable support to the ankle during everyday use. It helps improve blood circulation, provides therapeutic warmth, and relieves pain and infla",
+    "rating": 4.4,
+    "image_url": "",
+    "prices": {
+      "Small": 300,
+      "Medium": 350,
+      "Large": 400,
+      "XL": 450
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "ankle_binder_air_pro",
+    "name": "Ankle Binder Air Pro",
+    "brand": "Sport",
+    "body_part": "Ankle",
+    "sub_cat": "Ankle Binder",
+    "short_desc": "Tynor Ankle Binder Air Pro is designed to provide compression and support to the ankle joint, helping maintain stability during sports and physical activities. It enhances circulation around the ankle",
+    "rating": 4.4,
+    "image_url": "",
+    "prices": {
+      "Small": 450,
+      "Medium": 550,
+      "Large": 650,
+      "XL": 750
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "ankle_support_(neo)",
+    "name": "Ankle Support (Neo)",
+    "brand": "Sport",
+    "body_part": "Ankle",
+    "sub_cat": "Ankle support",
+    "short_desc": "",
+    "rating": 4.8,
+    "image_url": "",
+    "prices": {
+      "One Size": 500
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "ankle_support_air_pro",
+    "name": "Ankle Support Air Pro",
+    "brand": "Sport",
+    "body_part": "Ankle",
+    "sub_cat": "Ankle support",
+    "short_desc": "Tynor Ankle Support Air Pro is a designer support that provides compression and stability to the ankle joint during sports, athletics, and running. It improves blood circulation and helps reduce the r",
+    "rating": 4.4,
+    "image_url": "",
+    "prices": {
+      "Small": 300,
+      "Medium": 350,
+      "Large": 400,
+      "XL": 450
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "cast_cover_arm",
+    "name": "Cast Cover arm",
+    "brand": "Cure",
+    "body_part": "Arm",
+    "sub_cat": "Cast cover",
+    "short_desc": "Tynor Cast Cover (Arm) keeps your cast clean and dry during daily activities like bathing, using a secure waterproof seal and flexible design for comfortable, worry-free protection.",
+    "rating": 4.5,
+    "image_url": "",
+    "prices": {
+      "One Size": 450
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "pouch_arm_sling_baggy",
+    "name": "Pouch Arm Sling Baggy",
+    "brand": "Cure",
+    "body_part": "Arm",
+    "sub_cat": "Pouch Arm",
+    "short_desc": "Tynor Pouch Arm Sling (Baggy) is designed to provide effective support and immobilization to the arm during recovery from fractures, surgeries, or injuries. Its baggy design comfortably accommodates h",
+    "rating": 4.3,
+    "image_url": "",
+    "prices": {
+      "Small": 700,
+      "Medium": 750,
+      "Large": 800,
+      "XL": 850,
+      "XXL": 900
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock",
+      "XXL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "pouch_arm_sling_tropical",
+    "name": "Pouch Arm Sling Tropical",
+    "brand": "Cure",
+    "body_part": "Arm",
+    "sub_cat": "Pouch Arm",
+    "short_desc": "Tynor Pouch Arm Sling (Tropical) is designed to provide optimal support and immobilization to the injured or post-surgical arm. It maintains the arm at a 90-degree angle at the elbow joint for proper",
+    "rating": 4.2,
+    "image_url": "",
+    "prices": {
+      "Small": 700,
+      "Medium": 750,
+      "Large": 800,
+      "XL": 850,
+      "XXL": 900
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock",
+      "XXL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "arm_sleeve",
+    "name": "Arm Sleeve",
+    "brand": "Sport",
+    "body_part": "Arm",
+    "sub_cat": "Arm Sleeve",
+    "short_desc": "Tynor Arm Sleeve is designed to provide effective protection against sun exposure, scratches, and minor abrasions during outdoor activities. It offers a comfortable, flexible, and breathable solution",
+    "rating": 4.4,
+    "image_url": "",
+    "prices": {
+      "One Size": 450
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "uv_protection_arm_sleeve",
+    "name": "UV Protection Arm Sleeve",
+    "brand": "Sport",
+    "body_part": "Arm",
+    "sub_cat": "Arm Sleeve",
+    "short_desc": "Tynor UV Protection Arm Sleeve is designed to shield the skin from harmful UV rays and sun exposure during outdoor activities. It provides a comfortable, breathable, and stylish solution for athletes,",
+    "rating": 4.3,
+    "image_url": "",
+    "prices": {
+      "One Size": 500
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "uv_protection_arm_sleeve_with_open_thumb",
+    "name": "UV Protection Arm Sleeve With Open Thumb",
+    "brand": "Sport",
+    "body_part": "Arm",
+    "sub_cat": "Arm sleeve",
+    "short_desc": "Tynor UV Protection Arm Sleeve with Thumb protects the skin from harmful UV rays during outdoor activities. It provides UPF 50+ protection and covers the arm and back of the hand for extended coverage",
+    "rating": 4.2,
+    "image_url": "",
+    "prices": {
+      "One Size": 950
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "ash_brace_(hyper_extension_brace)",
+    "name": "Ash Brace (Hyper Extension Brace)",
+    "brand": "Cure",
+    "body_part": "Back",
+    "sub_cat": "Ash Brace",
+    "short_desc": "Tynor Ash Brace (Hyper Extension Brace) is expertly designed to immobilize and stabilize the spine in a neutral to hyperextension position. It provides targeted support to the thoracic and lumbar regi",
+    "rating": 4.3,
+    "image_url": "",
+    "prices": {
+      "Small": 650,
+      "Medium": 750,
+      "Large": 850,
+      "XL": 950
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "back_rest_full",
+    "name": "Back Rest Full",
+    "brand": "Cure",
+    "body_part": "Back",
+    "sub_cat": "Backrest",
+    "short_desc": "Tynor Back Rest Full provides ergonomic back support by maintaining the natural spinal curve, relieving back pain, and promoting healthy posture during prolonged sitting.",
+    "rating": 4.8,
+    "image_url": "",
+    "prices": {
+      "One Size": 950
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "back_support_belt",
+    "name": "Back Support Belt",
+    "brand": "Cure",
+    "body_part": "Back",
+    "sub_cat": "Back belt",
+    "short_desc": "Tynor Back Support Belt is designed to provide firm compression and support to the lower back. It helps reduce strain on muscles and ligaments while offering stability during daily activities, prolong",
+    "rating": 4.5,
+    "image_url": "",
+    "prices": {
+      "Small": 700,
+      "Medium": 800,
+      "Large": 900,
+      "XL": 1000,
+      "XXL": 1100
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock",
+      "XXL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "bed_back_rest",
+    "name": "Bed back rest",
+    "brand": "Cure",
+    "body_part": "Back",
+    "sub_cat": "Backrest",
+    "short_desc": "Tynor Bed Backrest provides adjustable support for comfortable sitting and resting positions, enabling smooth transition from supine to upright posture with stability and ease.",
+    "rating": 4.5,
+    "image_url": "",
+    "prices": {
+      "One Size": 850
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "coccyx_cushion_seat",
+    "name": "Coccyx Cushion Seat",
+    "brand": "Cure",
+    "body_part": "Back",
+    "sub_cat": "Cushion seat",
+    "short_desc": "Tynor Coccyx Cushion Seat provides anatomical support by relieving tailbone pressure, distributing body weight evenly, and promoting healthy sitting posture during prolonged sitting.",
+    "rating": 4.2,
+    "image_url": "",
+    "prices": {
+      "One Size": 400
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "contoured_ls_support",
+    "name": "Contoured L.S. Support",
+    "brand": "Cure",
+    "body_part": "Back",
+    "sub_cat": "Back belt",
+    "short_desc": "Tynor Contoured L.S. Support is designed to provide strong immobilization and support to the lumbosacral region. It helps maintain spinal alignment, restricts excessive movement, and supports the lowe",
+    "rating": 4.7,
+    "image_url": "",
+    "prices": {
+      "Small": 750,
+      "Medium": 850,
+      "Large": 950,
+      "XL": 1050,
+      "XXL": 1150
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock",
+      "XXL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "ls_belt_lumbopore",
+    "name": "LS Belt Lumbopore",
+    "brand": "Cure",
+    "body_part": "Back",
+    "sub_cat": "Back belt",
+    "short_desc": "Tynor L.S. Belt Lumbopore is designed to provide effective immobilization and support to the lumbosacral region. It helps maintain the spine in a neutral position, supports posture, and assists in man",
+    "rating": 4.6,
+    "image_url": "",
+    "prices": {
+      "Small": 1200,
+      "Medium": 1250,
+      "Large": 1300,
+      "XL": 1350,
+      "XXL": 1400
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock",
+      "XXL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "lacepull_ls_belt",
+    "name": "Lacepull L.S Belt",
+    "brand": "Cure",
+    "body_part": "Back",
+    "sub_cat": "Back belt",
+    "short_desc": "Tynor Lacepull L.S. Belt is designed to provide targeted support and controlled compression to the lower back in conditions like mild disc issues, postural strain, or early-stage back pain. The lace-p",
+    "rating": 4.6,
+    "image_url": "",
+    "prices": {
+      "Small": 950,
+      "Medium": 1000,
+      "Large": 1050,
+      "XL": 1100
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "lumbo_lacepull_brace",
+    "name": "Lumbo Lacepull Brace",
+    "brand": "Cure",
+    "body_part": "Back",
+    "sub_cat": "Back belt",
+    "short_desc": "Tynor Lumbo Lacepull Brace is designed to provide strong support and controlled compression to the lower back in conditions like slip disc, post-surgery recovery, or chronic back pain. The lace-pull s",
+    "rating": 4.2,
+    "image_url": "",
+    "prices": {
+      "Small": 1200,
+      "Medium": 1300,
+      "Large": 1400,
+      "XL": 1500
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "lumbo_sacral_belt_(black)",
+    "name": "Lumbo Sacral Belt (Black)",
+    "brand": "Cure",
+    "body_part": "Back",
+    "sub_cat": "Back belt",
+    "short_desc": "Tynor Lumbo Sacral Belt (Black) is a stylish, aesthetically pleasing belt that offers comfortable back support and soothing pain relief for comfortable & limitless, everyday movement. Flexible back sp",
+    "rating": 4.1,
+    "image_url": "",
+    "prices": {
+      "Small": 1250,
+      "Medium": 1300,
+      "Large": 1350,
+      "XL": 1400,
+      "XXL": 1450
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock",
+      "XXL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "lumbo_sacral_belt_(grey)",
+    "name": "Lumbo Sacral Belt (Grey)",
+    "brand": "Cure",
+    "body_part": "Back",
+    "sub_cat": "Back belt",
+    "short_desc": "Tynor Lumbo Sacral Belt offers comfortable back support and soothing pain relief for comfortable & limitless, everyday movement. Flexible back splints provide optimal stability. Vibrant colors & sleek",
+    "rating": 4.4,
+    "image_url": "",
+    "prices": {
+      "Small": 700,
+      "Medium": 800,
+      "Large": 900,
+      "XL": 1000,
+      "XXL": 1100
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock",
+      "XXL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "lumbo_support",
+    "name": "Lumbo support",
+    "brand": "Cure",
+    "body_part": "Back",
+    "sub_cat": "Back belt",
+    "short_desc": "Tynor Lumbo Support Uni is designed to provide lumbar stabilization, support the lower back, and assist in maintaining proper posture during daily activities.",
+    "rating": 4.3,
+    "image_url": "",
+    "prices": {
+      "Small": 900,
+      "Medium": 950,
+      "Large": 1000,
+      "XL": 1050
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "ortho_cushion_seat",
+    "name": "Ortho Cushion Seat",
+    "brand": "Cure",
+    "body_part": "Back",
+    "sub_cat": "Cushion seat",
+    "short_desc": "Tynor Ortho Cushion Seat is designed to promote correct sitting posture by evenly distributing body weight and reducing pressure on the spine, hips, and tailbone. It provides supportive cushioning for",
+    "rating": 4.4,
+    "image_url": "",
+    "prices": {
+      "One Size": 750
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "round_ring_cushion",
+    "name": "ROUND RING CUSHION",
+    "brand": "Cure",
+    "body_part": "Back",
+    "sub_cat": "Cushion seat",
+    "short_desc": "Tynor Round Ring Cushion Seat provides pressure relief and comfortable seating by reducing stress on the tailbone and anal region, supporting pain-free sitting.",
+    "rating": 4.2,
+    "image_url": "",
+    "prices": {
+      "One Size": 800
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "taylor's_brace",
+    "name": "Taylor's Brace",
+    "brand": "Cure",
+    "body_part": "Back",
+    "sub_cat": "Taylor brace",
+    "short_desc": "Tynor Taylor’s Brace is designed to provide strong support and immobilization to the upper and lower spine in conditions like fractures, post-surgery recovery, or severe back issues. It helps limit un",
+    "rating": 4.5,
+    "image_url": "",
+    "prices": {
+      "Small": 750,
+      "Medium": 800,
+      "Large": 850,
+      "XL": 900
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "elite_lumbo_backrest",
+    "name": "ELITE LUMBO BACKREST",
+    "brand": "Life",
+    "body_part": "Back",
+    "sub_cat": "Backrest",
+    "short_desc": "Tynor Elite Lumbo Backrest makes long sitting hours more comfortable by providing gentle and reliable lower back support. It supports the natural curve of the lower back to help reduce strain during p",
+    "rating": 4.3,
+    "image_url": "",
+    "prices": {
+      "One Size": 600
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "mattress_protector",
+    "name": "Mattress Protector",
+    "brand": "Life",
+    "body_part": "Back",
+    "sub_cat": "Pillow",
+    "short_desc": "Tynor Trendz Mattress Protector is designed to keep your mattress safe from spills, sweat, and everyday accidents while maintaining hygiene and comfort. Its waterproof barrier prevents moisture from s",
+    "rating": 4.2,
+    "image_url": "",
+    "prices": {
+      "Small": 700,
+      "Medium": 800,
+      "Large": 900,
+      "XL": 1000
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "trendz_back_rest_-_black",
+    "name": "TRENDZ BACK REST - BLACK",
+    "brand": "Life",
+    "body_part": "Back",
+    "sub_cat": "Backrest",
+    "short_desc": "Trendz Backrest provides optimal lower back support and promotes correct posture during long sitting hours. Designed for comfort and stability, it helps relieve back pain and ensures a relaxed, well-s",
+    "rating": 4.3,
+    "image_url": "",
+    "prices": {
+      "One Size": 850
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "trendz_cushion_seat_-_black",
+    "name": "TRENDZ CUSHION SEAT - BLACK",
+    "brand": "Life",
+    "body_part": "Back",
+    "sub_cat": "Cushion seat",
+    "short_desc": "Trendz Cushion Seat is designed to provide superior comfort and pressure relief during prolonged sitting. With an ergonomic cutout and high-density foam, it supports proper posture, reduces tailbone p",
+    "rating": 4.7,
+    "image_url": "",
+    "prices": {
+      "One Size": 600
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "posture_corrector",
+    "name": "Posture Corrector",
+    "brand": "Cure",
+    "body_part": "Back, neck",
+    "sub_cat": "Posture corrector",
+    "short_desc": "Tynor Posture Corrector helps you stand taller, sit straighter & stay confident by correcting your posture. It gently pulls back shoulders and correctly aligns the spine. The product ensures all-day c",
+    "rating": 4.8,
+    "image_url": "",
+    "prices": {
+      "Small": 600,
+      "Medium": 700,
+      "Large": 800,
+      "XL": 900
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "posture_corrector_sleek",
+    "name": "Posture corrector Sleek",
+    "brand": "Cure",
+    "body_part": "Back, neck",
+    "sub_cat": "Posture corrector",
+    "short_desc": "Tynor Posture Corrector Sleek is designed to help you improve posture and reduce neck and shoulder discomfort caused by slouching. It gently pulls the shoulders back to align the spine and support bet",
+    "rating": 4.4,
+    "image_url": "",
+    "prices": {
+      "One Size": 850
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "shin_&_calf_support_neo",
+    "name": "Shin & Calf Support Neo",
+    "brand": "Sport",
+    "body_part": "Calf",
+    "sub_cat": "Calf support",
+    "short_desc": "Tynor Shin and Calf Support Neo is designed to provide compression and support to the calf muscles and shin area during physical activity. It helps improve circulation, reduce discomfort, and enhance",
+    "rating": 4.4,
+    "image_url": "",
+    "prices": {
+      "One Size": 500
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "shin_&_calf_support_air_pro",
+    "name": "Shin & Calf support Air Pro",
+    "brand": "Sport",
+    "body_part": "Calf",
+    "sub_cat": "Calf support",
+    "short_desc": "Tynor Shin and Calf Support Air Pro provides targeted compression and support to the shin and calf during high-intensity activity. It improves blood flow to support muscle strength, power, and enduran",
+    "rating": 4.4,
+    "image_url": "",
+    "prices": {
+      "Small": 600,
+      "Medium": 650,
+      "Large": 700,
+      "XL": 750
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "chest_binder",
+    "name": "Chest Binder",
+    "brand": "Cure",
+    "body_part": "Chest",
+    "sub_cat": "Chest Binder",
+    "short_desc": "Tynor Chest Binder is designed to support the chest after surgery, injury, or rib conditions by providing controlled compression and stability. It helps reduce pain during movement, breathing, or coug",
+    "rating": 4.4,
+    "image_url": "",
+    "prices": {
+      "Small": 700,
+      "Medium": 800,
+      "Large": 900,
+      "XL": 1000,
+      "XXL": 1100
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock",
+      "XXL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "rib_belt",
+    "name": "Rib Belt",
+    "brand": "Cure",
+    "body_part": "Chest",
+    "sub_cat": "Rib Belt",
+    "short_desc": "Tynor Rib Belt is a flexible and effective support designed to stabilize the rib cage and upper abdominal region during recovery. It provides controlled compression that helps reduce pain, restricts e",
+    "rating": 4.6,
+    "image_url": "",
+    "prices": {
+      "Small": 500,
+      "Medium": 600,
+      "Large": 700,
+      "XL": 800
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "elbow_support",
+    "name": "Elbow Support",
+    "brand": "Cure",
+    "body_part": "Elbow",
+    "sub_cat": "Elbow Support",
+    "short_desc": "Tynor Elbow Support is designed to provide targeted compression and support for conditions like tennis elbow, strain, or elbow pain. It helps reduce swelling, improve circulation, and relieve discomfo",
+    "rating": 4.2,
+    "image_url": "",
+    "prices": {
+      "Small": 650,
+      "Medium": 700,
+      "Large": 750,
+      "XL": 800
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "rom_elbow_brace",
+    "name": "ROM Elbow Brace",
+    "brand": "Cure",
+    "body_part": "Elbow",
+    "sub_cat": "Elbow Brace",
+    "short_desc": "Tynor R.O.M. Elbow Brace is designed to support controlled elbow movement during recovery. It allows precise adjustment of flexion and extension within a defined range, helping stabilize the joint whi",
+    "rating": 4.6,
+    "image_url": "",
+    "prices": {
+      "One Size": 1050
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "tennis_elbow_support",
+    "name": "Tennis Elbow Support",
+    "brand": "Cure",
+    "body_part": "Elbow",
+    "sub_cat": "Elbow (tennis)",
+    "short_desc": "Tynor Tennis Elbow Support is designed to provide targeted compression just below the elbow to relieve pain caused by repetitive strain. It helps reduce stress on tendons, absorb vibrations, and suppo",
+    "rating": 4.5,
+    "image_url": "",
+    "prices": {
+      "Small": 900,
+      "Medium": 1000,
+      "Large": 1100,
+      "XL": 1200
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "elbow_support_air",
+    "name": "Elbow Support Air",
+    "brand": "Sport",
+    "body_part": "Elbow",
+    "sub_cat": "Elbow Support",
+    "short_desc": "Tynor Elbow Support Air is a compression sleeve designed to provide support to the elbow during sports and physical activity. It improves blood circulation and provides warmth to help support muscle p",
+    "rating": 4.5,
+    "image_url": "",
+    "prices": {
+      "Small": 700,
+      "Medium": 750,
+      "Large": 800,
+      "XL": 850,
+      "XXL": 900
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock",
+      "XXL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "elbow_support_air_pro",
+    "name": "Elbow Support Air Pro",
+    "brand": "Sport",
+    "body_part": "Elbow",
+    "sub_cat": "Elbow Support",
+    "short_desc": "Tynor Elbow Support Air Pro provides effective compression and stability to the elbow joint during physical activity. It increases muscle density for improved strength and power delivery while enhanci",
+    "rating": 4.6,
+    "image_url": "",
+    "prices": {
+      "Small": 500,
+      "Medium": 550,
+      "Large": 600,
+      "XL": 650,
+      "XXL": 700
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock",
+      "XXL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "elbow_wrap_neo",
+    "name": "Elbow wrap neo",
+    "brand": "Sport",
+    "body_part": "Elbow",
+    "sub_cat": "Elbow Support",
+    "short_desc": "Tynor Elbow Wrap Neo is designed to support your performance with secure and adaptive elbow support during intense activity. Its wrap design allows a customized fit for better control, while the detac",
+    "rating": 4.3,
+    "image_url": "",
+    "prices": {
+      "One Size": 700
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "tennis_golfer's_elbow_support_pro",
+    "name": "Tennis/Golfer'S Elbow Support Pro",
+    "brand": "Sport",
+    "body_part": "Elbow",
+    "sub_cat": "Elbow (tennis)",
+    "short_desc": "",
+    "rating": 4.7,
+    "image_url": "",
+    "prices": {
+      "One Size": 950
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "eye_cool_pack",
+    "name": "Eye Cool Pack",
+    "brand": "Cure",
+    "body_part": "Eye",
+    "sub_cat": "Hot & Cold",
+    "short_desc": "Tynor Eye Cool Pack provides effective cooling relief to reduce eye strain, puffiness, and fatigue, ensuring comfort during long screen usage and daily stress.",
+    "rating": 4.5,
+    "image_url": "",
+    "prices": {
+      "One Size": 750
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "compression_garment_face_open_hood",
+    "name": "Compression Garment Face Open Hood",
+    "brand": "Cure",
+    "body_part": "Face",
+    "sub_cat": "Compression Garment",
+    "short_desc": "Tynor Compression Garment Face Open Hood provides medical-grade compression to support facial tissues, reduce swelling, and promote effective healing.",
+    "rating": 4.2,
+    "image_url": "",
+    "prices": {
+      "Small": 1400,
+      "Medium": 1450,
+      "Large": 1500,
+      "XL": 1550
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "arch_support_semi_pro_(pair)",
+    "name": "Arch Support Semi Pro (Pair)",
+    "brand": "Cure",
+    "body_part": "Foot",
+    "sub_cat": "Foot Support",
+    "short_desc": "Tynor Arch Support Semi Pro is designed to support the natural inner arch of the foot, ensuring proper weight distribution and enhanced stability. It helps relieve foot pain while improving posture an",
+    "rating": 4.7,
+    "image_url": "",
+    "prices": {
+      "Small": 550,
+      "Medium": 650,
+      "Large": 750,
+      "XL": 850
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "bunion_splint",
+    "name": "Bunion Splint",
+    "brand": "Cure",
+    "body_part": "Foot",
+    "sub_cat": "Foot Support",
+    "short_desc": "Tynor Bunion Splint is designed to correct hallux valgus deformity by guiding the big toe into an improved alignment. It provides controlled correction while allowing natural toe movement, making it s",
+    "rating": 4.8,
+    "image_url": "",
+    "prices": {
+      "One Size": 400
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "cast_shoe_rocker_sole",
+    "name": "Cast Shoe Rocker Sole",
+    "brand": "Cure",
+    "body_part": "Foot",
+    "sub_cat": "Foot fracture",
+    "short_desc": "Tynor Cast Shoe (Rocker Sole) helps you walk more comfortably and safely with a cast by reducing pressure on the injured foot while supporting natural movement during recovery.",
+    "rating": 4.2,
+    "image_url": "",
+    "prices": {
+      "Small": 1200,
+      "Medium": 1250,
+      "Large": 1300,
+      "XL": 1350
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "foot_drop_splint",
+    "name": "Foot Drop Splint",
+    "brand": "Cure",
+    "body_part": "Foot",
+    "sub_cat": "Foot fracture",
+    "short_desc": "Tynor Foot Drop Splint is designed to correct foot drop by maintaining the foot in a neutral position. It helps prevent plantar flexion, improves toe clearance, and supports a more natural gait. The s",
+    "rating": 4.6,
+    "image_url": "",
+    "prices": {
+      "Small": 1050,
+      "Medium": 1100,
+      "Large": 1150,
+      "XL": 1200
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "foot_drop_splint_with_liner",
+    "name": "Foot Drop Splint With Liner",
+    "brand": "Cure",
+    "body_part": "Foot",
+    "sub_cat": "Foot fracture",
+    "short_desc": "Tynor Foot Drop Splint with Liner is designed to correct foot drop by holding the foot in a neutral position. It prevents plantar flexion and helps improve gait by enabling better toe clearance during",
+    "rating": 4.4,
+    "image_url": "",
+    "prices": {
+      "Small": 1150,
+      "Medium": 1200,
+      "Large": 1250,
+      "XL": 1300
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "heel_cushion_silicone_(pair)",
+    "name": "Heel Cushion Silicone (Pair)",
+    "brand": "Cure",
+    "body_part": "Foot",
+    "sub_cat": "Foot Support",
+    "short_desc": "Tynor Heel Cushion Silicone is designed to provide effective cushioning and pressure relief to the heel. It helps reduce stress on the heel bone by absorbing impact and distributing pressure evenly, m",
+    "rating": 4.1,
+    "image_url": "",
+    "prices": {
+      "Small": 600,
+      "Medium": 650,
+      "Large": 700,
+      "XL": 750
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "insole_full_silicone_(pair)",
+    "name": "Insole Full Silicone (Pair)",
+    "brand": "Cure",
+    "body_part": "Foot",
+    "sub_cat": "Foot Support",
+    "short_desc": "Tynor Insole Full Silicone is designed to provide cushioning and comfort to the entire foot. It helps distribute body weight evenly, reduces pressure on key areas, and supports comfortable walking dur",
+    "rating": 4.6,
+    "image_url": "",
+    "prices": {
+      "Small": 450,
+      "Medium": 550,
+      "Large": 650,
+      "XL": 750
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "medial_arch_orthosis_(pair)",
+    "name": "Medial Arch Orthosis (Pair)",
+    "brand": "Cure",
+    "body_part": "Foot",
+    "sub_cat": "Foot Support",
+    "short_desc": "Tynor Medial Arch Orthosis is designed to support the medial arch of the foot, promote proper alignment, and assist in even weight distribution for improved foot mechanics and comfort during daily act",
+    "rating": 4.5,
+    "image_url": "",
+    "prices": {
+      "Small": 750,
+      "Medium": 800,
+      "Large": 850,
+      "XL": 900
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "oa_wedge_insoles",
+    "name": "OA Wedge Insoles",
+    "brand": "Cure",
+    "body_part": "Foot",
+    "sub_cat": "Foot Support",
+    "short_desc": "",
+    "rating": 4.6,
+    "image_url": "",
+    "prices": {
+      "Small": 650,
+      "Medium": 700,
+      "Large": 750,
+      "XL": 800
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "pf_night_splint_derotation",
+    "name": "PF Night Splint Derotation",
+    "brand": "Cure",
+    "body_part": "Foot",
+    "sub_cat": "Foot fracture",
+    "short_desc": "Tynor PF Night Splint is designed to maintain the ankle in a controlled dorsiflexion position to prevent plantar flexion during recovery. It helps manage conditions like plantar fasciitis, foot drop,",
+    "rating": 4.2,
+    "image_url": "",
+    "prices": {
+      "Small": 700,
+      "Medium": 750,
+      "Large": 800,
+      "XL": 850
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "toe_separator_silicone_(pair)",
+    "name": "Toe Separator Silicone (Pair)",
+    "brand": "Cure",
+    "body_part": "Foot",
+    "sub_cat": "Foot Support",
+    "short_desc": "Tynor Toe Separator (Silicone) is anatomically designed to gently separate and align toes, reducing friction, discomfort, and pressure. It helps relieve pain caused by overlapping toes, bunions, and c",
+    "rating": 4.2,
+    "image_url": "",
+    "prices": {
+      "Small": 450,
+      "Medium": 550,
+      "Large": 650,
+      "XL": 750
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "walker_boot_air_pro_long",
+    "name": "Walker Boot Air Pro Long",
+    "brand": "Cure",
+    "body_part": "Foot",
+    "sub_cat": "Foot fracture",
+    "short_desc": "Tynor Walker Boot Air Pro Long is designed to provide maximum support and immobilization for foot, ankle, and lower leg injuries. It helps stabilize the entire lower limb, reduce movement, and support",
+    "rating": 4.2,
+    "image_url": "",
+    "prices": {
+      "Small": 1000,
+      "Medium": 1050,
+      "Large": 1100,
+      "XL": 1150
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "walker_boot_air_pro_short",
+    "name": "Walker Boot Air Pro Short",
+    "brand": "Cure",
+    "body_part": "Foot",
+    "sub_cat": "Foot fracture",
+    "short_desc": "Tynor Walker Boot Air Pro Short is designed to provide strong support and controlled immobilization for foot and ankle injuries. It helps stabilize the joint, reduce swelling, and protect the affected",
+    "rating": 4.4,
+    "image_url": "",
+    "prices": {
+      "Small": 800,
+      "Medium": 900,
+      "Large": 1000,
+      "XL": 1100
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "forearm_splint",
+    "name": "Forearm Splint",
+    "brand": "Cure",
+    "body_part": "Forearm, arm",
+    "sub_cat": "Hand Splint",
+    "short_desc": "Tynor Forearm Splint is designed to immobilize and support the wrist and forearm in a functional position. It helps restrict excessive movement while allowing free motion of the fingers and thumb, mak",
+    "rating": 4.6,
+    "image_url": "",
+    "prices": {
+      "Small": 850,
+      "Medium": 950,
+      "Large": 1050,
+      "XL": 1150
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "hand_resting_splint",
+    "name": "Hand Resting Splint",
+    "brand": "Cure",
+    "body_part": "Hand",
+    "sub_cat": "Hand Splint",
+    "short_desc": "Tynor Hand Resting Splint is designed to immobilize and support the hand in a functional resting position. It helps prevent unwanted movement while stabilizing the hand, wrist, forearm, and fingers, m",
+    "rating": 4.7,
+    "image_url": "",
+    "prices": {
+      "Small": 900,
+      "Medium": 1000,
+      "Large": 1100,
+      "XL": 1200
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "tynorgrip_fielding_gloves_pair",
+    "name": "TYNORGRIP FIELDING GLOVES PAIR",
+    "brand": "Sport",
+    "body_part": "Hand",
+    "sub_cat": "Gloves",
+    "short_desc": "Tynogrip Fielding Gloves are designed to enhance grip, protection, and on-field performance. Featuring anti-slip honeycomb silicone, cushioned padding, and a flexible ergonomic fit, they support preci",
+    "rating": 4.7,
+    "image_url": "",
+    "prices": {
+      "Small": 550,
+      "Medium": 600,
+      "Large": 650,
+      "XL": 700
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "tynogrip_training_gloves",
+    "name": "Tynogrip Training Gloves",
+    "brand": "Sport",
+    "body_part": "Hand",
+    "sub_cat": "Gloves",
+    "short_desc": "Tynogrip Training Gloves are designed for active training sessions, providing grip and protection during crossfit and functional workouts. They help reduce friction and prevent blisters while maintain",
+    "rating": 4.6,
+    "image_url": "",
+    "prices": {
+      "Small": 500,
+      "Medium": 550,
+      "Large": 600,
+      "XL": 650
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "tynogrip_training_gloves_with_support",
+    "name": "Tynogrip Training Gloves with support",
+    "brand": "Sport",
+    "body_part": "Hand",
+    "sub_cat": "Gloves",
+    "short_desc": "Tynogrip Training Gloves with Wrist Support are designed for controlled and stable training, providing grip and protection during crossfit and workouts. They help reduce friction and prevent blisters",
+    "rating": 4.6,
+    "image_url": "",
+    "prices": {
+      "Small": 650,
+      "Medium": 750,
+      "Large": 850,
+      "XL": 950
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "tynorgrip_gym_gloves",
+    "name": "Tynorgrip Gym Gloves",
+    "brand": "Sport",
+    "body_part": "Hand",
+    "sub_cat": "Gloves",
+    "short_desc": "Tynogrip Gym Gloves provide reliable palm protection and cushioning during workouts and training sessions. They help reduce friction between the hand and equipment, preventing blisters and dead skin f",
+    "rating": 4.4,
+    "image_url": "",
+    "prices": {
+      "Small": 1000,
+      "Medium": 1100,
+      "Large": 1200,
+      "XL": 1300
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "tynorgrip_gym_gloves_with_support",
+    "name": "Tynorgrip Gym Gloves with Support",
+    "brand": "Sport",
+    "body_part": "Hand",
+    "sub_cat": "Gloves",
+    "short_desc": "Tynogrip Gym Gloves with Wrist Support provide enhanced grip and added wrist stability during workouts and training sessions. They protect the palm from friction and help prevent blisters, while the w",
+    "rating": 4.7,
+    "image_url": "",
+    "prices": {
+      "Small": 450,
+      "Medium": 500,
+      "Large": 550,
+      "XL": 600
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "tynorgrip_women's_gym_gloves",
+    "name": "Tynorgrip Women's Gym Gloves",
+    "brand": "Sport",
+    "body_part": "Hand",
+    "sub_cat": "Gloves",
+    "short_desc": "Tynogrip Women’s Gym Gloves are for those who choose aesthetics along with functionality. They come in vibrant colour and provide reliable grip and comfort during workouts. They provide palm protectio",
+    "rating": 4.8,
+    "image_url": "",
+    "prices": {
+      "Small": 800,
+      "Medium": 900,
+      "Large": 1000,
+      "XL": 1100
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "finger_cot",
+    "name": "Finger Cot",
+    "brand": "Cure",
+    "body_part": "Hand, Finger",
+    "sub_cat": "Finger",
+    "short_desc": "Tynor Finger Cot is designed to provide effective immobilization and protection to an injured finger. It ensures proper alignment while offering superior comfort, helping promote faster healing and re",
+    "rating": 4.2,
+    "image_url": "",
+    "prices": {
+      "Small": 250,
+      "Medium": 300,
+      "Large": 350,
+      "XL": 400
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "finger_ext_splint",
+    "name": "Finger Ext. Splint",
+    "brand": "Cure",
+    "body_part": "Hand, Finger",
+    "sub_cat": "Finger",
+    "short_desc": "Tynor Finger Extension Splint is designed to immobilize and support finger joints, ensuring proper alignment and protection during recovery. It helps promote healing while preventing further injury, m",
+    "rating": 4.8,
+    "image_url": "",
+    "prices": {
+      "Small": 450,
+      "Medium": 550,
+      "Large": 650,
+      "XL": 750
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "frog_splint",
+    "name": "Frog Splint",
+    "brand": "Cure",
+    "body_part": "Hand, Finger",
+    "sub_cat": "Finger",
+    "short_desc": "Tynor Frog Splint is designed to immobilize, support, and protect injured fingers by holding them in a natural, slightly bent resting position. This unique positioning promotes proper healing while re",
+    "rating": 4.5,
+    "image_url": "",
+    "prices": {
+      "Small": 350,
+      "Medium": 400,
+      "Large": 450,
+      "XL": 500
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "mallet_finger_splint",
+    "name": "Mallet Finger Splint",
+    "brand": "Cure",
+    "body_part": "Hand, Finger",
+    "sub_cat": "Finger",
+    "short_desc": "Tynor Mallet Finger Splint is specially designed to immobilize and support the distal finger joint, keeping it in a straight position to promote proper tendon healing. It provides effective stabilizat",
+    "rating": 4.3,
+    "image_url": "",
+    "prices": {
+      "One Size": 400
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "thumb_spica_splint",
+    "name": "Thumb Spica Splint",
+    "brand": "Cure",
+    "body_part": "Hand, Finger",
+    "sub_cat": "Finger",
+    "short_desc": "Tynor Thumb Spica Splint provides precise immobilization of the thumb and wrist, stabilizing key joints while reducing strain on ligaments and tendons for faster, more controlled recovery.",
+    "rating": 4.2,
+    "image_url": "",
+    "prices": {
+      "One Size": 250
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "finger_sleeves",
+    "name": "Finger Sleeves",
+    "brand": "Sport",
+    "body_part": "Hand, Finger",
+    "sub_cat": "Finger",
+    "short_desc": "Tynor Finger Sleeves are designed to provide protection and cushioning to the fingers during sports and physical activity. They help reduce friction and protect against impact, preventing the formatio",
+    "rating": 4.5,
+    "image_url": "",
+    "prices": {
+      "One Size": 350
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "weight_cuff",
+    "name": "Weight Cuff",
+    "brand": "Cure",
+    "body_part": "Hand, Leg",
+    "sub_cat": "Weight cuff",
+    "short_desc": "Tynor Weight Cuff provides effective resistance for muscle strengthening and progressive rehabilitation, improving balance, coordination, and functional movement during training.",
+    "rating": 4.1,
+    "image_url": "",
+    "prices": {
+      "One Size": 600
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "tynofit_weight_cuff",
+    "name": "TYNOFIT WEIGHT CUFF",
+    "brand": "Sport",
+    "body_part": "Hand, Leg",
+    "sub_cat": "Weight cuff",
+    "short_desc": "Tynofit Weight Cuff adds effective resistance to your workouts, helping boost strength, muscle endurance, and overall performance. Designed for wrist and ankle use, it enhances everyday training, card",
+    "rating": 4.5,
+    "image_url": "",
+    "prices": {
+      "One Size": 650
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "restrainer",
+    "name": "Restrainer",
+    "brand": "Cure",
+    "body_part": "Hand, wrist",
+    "sub_cat": "Restrainer",
+    "short_desc": "Tynor Restrainer provides controlled restriction of limb movement, ensuring patient safety, preventing interference with medical devices, and supporting caregiver convenience.",
+    "rating": 4.6,
+    "image_url": "",
+    "prices": {
+      "One Size": 1000
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "adjustable_rom_knee_brace",
+    "name": "ADJUSTABLE ROM KNEE BRACE",
+    "brand": "Cure",
+    "body_part": "Knee",
+    "sub_cat": "Knee Brace",
+    "short_desc": "Tynor Adjustable R.O.M Knee Brace is designed to regulate knee joint movement by allowing controlled flexion, extension, or immobilization within a defined range. It supports rehabilitation by enablin",
+    "rating": 4.4,
+    "image_url": "",
+    "prices": {
+      "One Size": 950
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "cool_pack_knee_wrap",
+    "name": "Cool Pack Knee Wrap",
+    "brand": "Cure",
+    "body_part": "Knee",
+    "sub_cat": "Hot & Cold",
+    "short_desc": "Tynor Cool Pack Knee Wrap provides targeted cold therapy with compression to reduce pain, inflammation, and swelling, promoting faster knee recovery and effective healing.",
+    "rating": 4.2,
+    "image_url": "",
+    "prices": {
+      "One Size": 500
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "elastic_knee_support",
+    "name": "Elastic Knee Support",
+    "brand": "Cure",
+    "body_part": "Knee",
+    "sub_cat": "Knee Brace",
+    "short_desc": "Tynor Elastic Knee Support is a scientifically engineered brace designed to provide reliable support, stability, and controlled movement to the knee joint. It helps maintain proper alignment while all",
+    "rating": 4.5,
+    "image_url": "",
+    "prices": {
+      "Small": 1600,
+      "Medium": 1650,
+      "Large": 1700,
+      "XL": 1750,
+      "XXL": 1800
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock",
+      "XXL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "functional_knee_support",
+    "name": "Functional Knee Support",
+    "brand": "Cure",
+    "body_part": "Knee",
+    "sub_cat": "Knee Brace",
+    "short_desc": "Tynor Functional Knee Support is designed to provide strong stabilization and support to the knee joint. It helps control excessive side movement while allowing natural knee bending, making it suitabl",
+    "rating": 4.7,
+    "image_url": "",
+    "prices": {
+      "Small": 1400,
+      "Medium": 1450,
+      "Large": 1500,
+      "XL": 1550,
+      "XXL": 1600
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock",
+      "XXL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "knee_cap_comfeel_pair",
+    "name": "Knee Cap Comfeel Pair",
+    "brand": "Cure",
+    "body_part": "Knee",
+    "sub_cat": "Knee Support",
+    "short_desc": "Tynor Knee Cap Comfeel is designed to provide light compression and support for everyday knee discomfort, stiffness, or early-stage degenerative knee issues. It helps improve circulation and provides",
+    "rating": 4.7,
+    "image_url": "",
+    "prices": {
+      "Small": 450,
+      "Medium": 550,
+      "Large": 650,
+      "XL": 750,
+      "XXL": 850
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock",
+      "XXL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "knee_cap_open_patella",
+    "name": "Knee Cap Open Patella",
+    "brand": "Cure",
+    "body_part": "Knee",
+    "sub_cat": "Knee Support",
+    "short_desc": "Tynor Knee Cap Open Patella is scientifially designed to give optimal compression, warmth, and firm support to ease pain, reduce swelling, and keep your knees active, stable, and comfortable every sin",
+    "rating": 4.6,
+    "image_url": "",
+    "prices": {
+      "Small": 600,
+      "Medium": 650,
+      "Large": 700,
+      "XL": 750,
+      "XXL": 800
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock",
+      "XXL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "knee_cap_pair",
+    "name": "Knee Cap Pair",
+    "brand": "Cure",
+    "body_part": "Knee",
+    "sub_cat": "Knee Support",
+    "short_desc": "Tynor Knee Cap (Pair) is designed to provide gentle support and comfort for everyday knee pain, stiffness, or fatigue. It helps improve circulation and provides warmth to ease discomfort during daily",
+    "rating": 4.4,
+    "image_url": "",
+    "prices": {
+      "Small": 650,
+      "Medium": 750,
+      "Large": 850,
+      "XL": 950,
+      "XXL": 1050
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock",
+      "XXL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "knee_cap_with_rigid_hinge",
+    "name": "Knee Cap With Rigid Hinge",
+    "brand": "Cure",
+    "body_part": "Knee",
+    "sub_cat": "Knee Brace",
+    "short_desc": "Tynor Knee Cap (with Rigid Hinge) is designed to deliver targeted compression and enhanced stabilization to weak or injured knees. It controls excessive side movement while allowing natural knee flexi",
+    "rating": 4.2,
+    "image_url": "",
+    "prices": {
+      "Small": 1600,
+      "Medium": 1700,
+      "Large": 1800,
+      "XL": 1900,
+      "XXL": 2000
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock",
+      "XXL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "knee_immobiliser",
+    "name": "Knee Immobiliser",
+    "brand": "Cure",
+    "body_part": "Knee",
+    "sub_cat": "Knee Immobiliser",
+    "short_desc": "Tynor Knee Immobilizer provides strong immobilization and support to injured or post-operative knees, keeping the joint in a stable functional position for effective healing and comfortable recovery.",
+    "rating": 4.4,
+    "image_url": "",
+    "prices": {
+      "Small": 850,
+      "Medium": 950,
+      "Large": 1050,
+      "XL": 1150
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "knee_immobiliser_14\"_36cm",
+    "name": "Knee Immobiliser 14\"/36cm",
+    "brand": "Cure",
+    "body_part": "Knee",
+    "sub_cat": "Knee Immobiliser",
+    "short_desc": "Tynor Knee Immobilizer (14”) provides strong immobilization and support to injured or post-operative knees, keeping the joint in a stable functional position for effective healing and comfortable reco",
+    "rating": 4.7,
+    "image_url": "",
+    "prices": {
+      "Small": 950,
+      "Medium": 1050,
+      "Large": 1150,
+      "XL": 1250,
+      "XXL": 1350
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock",
+      "XXL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "knee_immobiliser_19\"_48cm",
+    "name": "Knee Immobiliser 19\"/48cm",
+    "brand": "Cure",
+    "body_part": "Knee",
+    "sub_cat": "Knee Immobiliser",
+    "short_desc": "Tynor Knee Immobilizer 19” provides extended immobilization and support to injured or post-operative knees, offering enhanced stability and full-leg coverage for more controlled recovery.",
+    "rating": 4.5,
+    "image_url": "",
+    "prices": {
+      "Small": 850,
+      "Medium": 950,
+      "Large": 1050,
+      "XL": 1150,
+      "XXL": 1250
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock",
+      "XXL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "knee_immobiliser_22\"_56cm",
+    "name": "Knee Immobiliser 22\"/56cm",
+    "brand": "Cure",
+    "body_part": "Knee",
+    "sub_cat": "Knee Immobiliser",
+    "short_desc": "Tynor Knee Immobilizer 22” provides extended immobilization and support to injured or post-operative knees, offering enhanced stability and full-leg coverage for more controlled recovery.",
+    "rating": 4.4,
+    "image_url": "",
+    "prices": {
+      "Small": 850,
+      "Medium": 900,
+      "Large": 950,
+      "XL": 1000,
+      "XXL": 1050
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock",
+      "XXL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "knee_support_hinged_(neoprene)",
+    "name": "Knee Support Hinged (Neoprene)",
+    "brand": "Cure",
+    "body_part": "Knee",
+    "sub_cat": "Knee Brace",
+    "short_desc": "Tynor Knee Support Hinged (Neoprene) is designed to provide medial-lateral stability to the knee while allowing controlled, natural movement during recovery and daily activities.",
+    "rating": 4.2,
+    "image_url": "",
+    "prices": {
+      "Small": 1500,
+      "Medium": 1600,
+      "Large": 1700,
+      "XL": 1800,
+      "XXL": 1900
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock",
+      "XXL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "knee_support_sportif_(neo)",
+    "name": "Knee Support Sportif (Neo)",
+    "brand": "Cure",
+    "body_part": "Knee",
+    "sub_cat": "Knee Support",
+    "short_desc": "Tynor Knee Support Sportif (Neo) is designed to provide compression, warmth, and patellar support to help manage knee pain and improve joint function during daily activities and sports.",
+    "rating": 4.4,
+    "image_url": "",
+    "prices": {
+      "Small": 700,
+      "Medium": 750,
+      "Large": 800,
+      "XL": 850,
+      "XXL": 900
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock",
+      "XXL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "knee_wrap_(neoprene)",
+    "name": "Knee Wrap (Neoprene)",
+    "brand": "Cure",
+    "body_part": "Knee",
+    "sub_cat": "Knee Support",
+    "short_desc": "Tynor Knee Wrap (Neoprene) is designed to provide compression and support to the knee joint. It helps retain warmth around the knee, supporting comfort and stability during movement and recovery.",
+    "rating": 4.2,
+    "image_url": "",
+    "prices": {
+      "Small": 750,
+      "Medium": 800,
+      "Large": 850,
+      "XL": 900
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "knee_wrap_hinged_(neo)",
+    "name": "Knee Wrap Hinged (Neo)",
+    "brand": "Cure",
+    "body_part": "Knee",
+    "sub_cat": "Knee Brace",
+    "short_desc": "Tynor Knee Wrap Hinged (Neoprene) is designed to provide strong stabilization and controlled support to the knee joint. It helps manage instability, reduce pain, and support recovery by limiting exces",
+    "rating": 4.5,
+    "image_url": "",
+    "prices": {
+      "Small": 1000,
+      "Medium": 1050,
+      "Large": 1100,
+      "XL": 1150,
+      "XXL": 1200
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock",
+      "XXL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "oa_knee_support_(neo)",
+    "name": "OA Knee Support (Neo)",
+    "brand": "Cure",
+    "body_part": "Knee",
+    "sub_cat": "Knee Brace",
+    "short_desc": "Tynor OA Knee Support provides corrective alignment support using a 3-point pressure mechanism, reduces knee joint load, and relieves pain associated with varus or valgus deformity.",
+    "rating": 4.5,
+    "image_url": "",
+    "prices": {
+      "Small": 1550,
+      "Medium": 1600,
+      "Large": 1650,
+      "XL": 1700,
+      "XXL": 1750
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock",
+      "XXL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "patellar_support",
+    "name": "Patellar Support",
+    "brand": "Cure",
+    "body_part": "Knee",
+    "sub_cat": "Knee Support",
+    "short_desc": "Tynor Patellar Support is designed to provide targeted support below the kneecap, helping reduce stress on the patellar tendon and improve load distribution across the knee joint.",
+    "rating": 4.5,
+    "image_url": "",
+    "prices": {
+      "One Size": 400
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "rom_knee_brace_18\"_46cm",
+    "name": "R.O.M. Knee Brace 18\"/46cm",
+    "brand": "Cure",
+    "body_part": "Knee",
+    "sub_cat": "Knee Brace",
+    "short_desc": "Tynor R.O.M. Knee Brace 18'' is expertly designed to control and regulate knee movement during recovery. It allows precise adjustment of flexion and extension angles, ensuring safe, controlled mobilit",
+    "rating": 4.2,
+    "image_url": "",
+    "prices": {
+      "One Size": 1450
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "rom_knee_brace_22\"_56cm",
+    "name": "R.O.M. Knee Brace 22\"/56cm",
+    "brand": "Cure",
+    "body_part": "Knee",
+    "sub_cat": "Knee Brace",
+    "short_desc": "Tynor R.O.M. Knee Brace 46'' is expertly designed to control and regulate knee movement during recovery. It allows precise adjustment of flexion and extension angles, ensuring safe, controlled mobilit",
+    "rating": 4.4,
+    "image_url": "",
+    "prices": {
+      "One Size": 1000
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "dual_patellar_knee_support",
+    "name": "Dual Patellar Knee Support",
+    "brand": "Sport",
+    "body_part": "Knee",
+    "sub_cat": "Knee Support",
+    "short_desc": "Tynor Dual Patellar Knee Support is a specialized product that gives targeted support to the patella and surrounding tendons for improved stability during movement. The dual gel pad design applies pre",
+    "rating": 4.6,
+    "image_url": "",
+    "prices": {
+      "One Size": 500
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "knee_cap_air",
+    "name": "Knee Cap Air",
+    "brand": "Sport",
+    "body_part": "Knee",
+    "sub_cat": "Knee Support",
+    "short_desc": "Tynor Knee Cap Air is designed to provide compression and support to the knee during sports and physical activities. It enhances performance by improving circulation, offering muscle warmth, and reduc",
+    "rating": 4.2,
+    "image_url": "",
+    "prices": {
+      "Small": 450,
+      "Medium": 550,
+      "Large": 650,
+      "XL": 750,
+      "XXL": 850
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock",
+      "XXL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "knee_cap_air_open_patella",
+    "name": "Knee Cap Air Open Patella",
+    "brand": "Sport",
+    "body_part": "Knee",
+    "sub_cat": "Knee Support",
+    "short_desc": "Tynor Knee Cap Air Pro Open Patella is an elastic compression sleeve designed to support and stabilize the knee during sports and physical activities. It enhances stability and promotes circulation, w",
+    "rating": 4.1,
+    "image_url": "",
+    "prices": {
+      "Small": 650,
+      "Medium": 700,
+      "Large": 750,
+      "XL": 800,
+      "XXL": 850
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock",
+      "XXL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "knee_cap_air_pro",
+    "name": "Knee Cap Air Pro",
+    "brand": "Sport",
+    "body_part": "Knee",
+    "sub_cat": "Knee Support",
+    "short_desc": "Tynor Knee Cap Air Pro is a designer elasticated compression sleeve that boosts performance during sports and gym. It compresses the knee to increase circulation and muscle density. Special 3D design",
+    "rating": 4.6,
+    "image_url": "",
+    "prices": {
+      "Small": 350,
+      "Medium": 400,
+      "Large": 450,
+      "XL": 500,
+      "XXL": 550
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock",
+      "XXL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "knee_support_pro_(neo)",
+    "name": "Knee Support Pro (Neo)",
+    "brand": "Sport",
+    "body_part": "Knee",
+    "sub_cat": "Knee Support",
+    "short_desc": "Tynor Knee Support Pro is built for intense play, giving firm compression to the knee when it matters the most. It provides warmth and improves circulation to boost performance and help reduce the ris",
+    "rating": 4.1,
+    "image_url": "",
+    "prices": {
+      "Small": 500,
+      "Medium": 600,
+      "Large": 700,
+      "XL": 800,
+      "XXL": 900
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock",
+      "XXL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "knee_wrap_(neo)",
+    "name": "Knee Wrap (Neo)",
+    "brand": "Sport",
+    "body_part": "Knee",
+    "sub_cat": "Knee Support",
+    "short_desc": "Tynor Knee Wrap (Neo) is designed to provide compression and support to the knee muscles during sports and training. It helps enhance performance by improving circulation and supporting the ligaments",
+    "rating": 4.5,
+    "image_url": "",
+    "prices": {
+      "One Size": 700
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "long_knee_cap_air_pro",
+    "name": "Long Knee Cap Air Pro",
+    "brand": "Sport",
+    "body_part": "Knee",
+    "sub_cat": "Knee Support",
+    "short_desc": "Tynor Long Knee Cap Air provides full leg coverage with support to the knee, calf, and surrounding muscles during activity. It delivers graduated compression to improve circulation and reduce muscle f",
+    "rating": 4.2,
+    "image_url": "",
+    "prices": {
+      "Small": 600,
+      "Medium": 700,
+      "Large": 800,
+      "XL": 900,
+      "XXL": 1000
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock",
+      "XXL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "weight_lifting_knee_wrap",
+    "name": "Weight Lifting Knee Wrap",
+    "brand": "Sport",
+    "body_part": "Knee",
+    "sub_cat": "Knee Support",
+    "short_desc": "Tynor Weight Lifting Knee Wrap is designed to provide strong support, stability, and protection to the knees during intense training. It enhances performance in exercises like squats, deadlifts, and l",
+    "rating": 4.3,
+    "image_url": "",
+    "prices": {
+      "One Size": 750
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "auxiliary_crutch_pair",
+    "name": "Auxiliary Crutch Pair",
+    "brand": "Cure",
+    "body_part": "Leg",
+    "sub_cat": "Auxiliary crutch",
+    "short_desc": "Tynor Auxiliary Crutch (Pair) provides reliable mobility support by enabling safe weight transfer from lower limbs to upper body during injury, disability, or post-operative recovery.",
+    "rating": 4.1,
+    "image_url": "",
+    "prices": {
+      "Small": 1300,
+      "Medium": 1350,
+      "Large": 1400,
+      "XL": 1450
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "cast_cover_leg",
+    "name": "Cast Cover Leg",
+    "brand": "Cure",
+    "body_part": "Leg",
+    "sub_cat": "Cast cover",
+    "short_desc": "Tynor Cast Cover (Leg) is designed to keep the cast clean and dry during daily activities like bathing or showering. It provides reliable waterproof protection while allowing easy wearing and removal.",
+    "rating": 4.2,
+    "image_url": "",
+    "prices": {
+      "One Size": 450
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "commode_chair",
+    "name": "Commode Chair",
+    "brand": "Cure",
+    "body_part": "Leg",
+    "sub_cat": "Commode chair",
+    "short_desc": "Tynor Commode Seat Raiser (4”) makes sitting and standing easier by adding height to the toilet seat, reducing strain on knees and hips for safer and more comfortable daily use.",
+    "rating": 4.5,
+    "image_url": "",
+    "prices": {
+      "One Size": 3100
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "commode_chair_ergo",
+    "name": "Commode Chair Ergo",
+    "brand": "Cure",
+    "body_part": "Leg",
+    "sub_cat": "Commode chair",
+    "short_desc": "Tynor Commode Chair Ergo is a thoughtfully designed mobile toilet solution that offers comfort, convenience, and dignity to individuals with limited mobility. It allows users to maintain a regular bow",
+    "rating": 4.5,
+    "image_url": "",
+    "prices": {
+      "One Size": 5100
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "commode_chair_with_wheels",
+    "name": "Commode Chair With Wheels",
+    "brand": "Cure",
+    "body_part": "Leg",
+    "sub_cat": "Commode chair",
+    "short_desc": "Tynor Commode Chair with Wheels provides mobile toileting support with safe movement, hygienic use, and enhanced comfort for individuals with limited mobility.",
+    "rating": 4.7,
+    "image_url": "",
+    "prices": {
+      "One Size": 3400
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "commode_seat_raiser",
+    "name": "Commode Seat Raiser",
+    "brand": "Cure",
+    "body_part": "Leg",
+    "sub_cat": "Commode chair",
+    "short_desc": "",
+    "rating": 4.8,
+    "image_url": "",
+    "prices": {
+      "One Size": 5650
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "compression_stocking_below_knee_classic_(pair)",
+    "name": "Compression Stocking Below Knee Classic (Pair)",
+    "brand": "Cure",
+    "body_part": "Leg",
+    "sub_cat": "Compression Garment",
+    "short_desc": "Tynor Compression Stockings Below Knee Classic are designed to provide graduated compression that supports venous return and helps reduce swelling and discomfort in the lower leg. By applying maximum",
+    "rating": 4.7,
+    "image_url": "",
+    "prices": {
+      "Small": 2500,
+      "Medium": 2600,
+      "Large": 2700,
+      "XL": 2800,
+      "XXL": 2900
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock",
+      "XXL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "dvt_stocking_knee_high_(pair)",
+    "name": "D.V.T. Stocking Knee High (Pair)",
+    "brand": "Cure",
+    "body_part": "Leg",
+    "sub_cat": "Compression Garment",
+    "short_desc": "Tynor D.V.T Stocking provides graduated compression to improve venous blood flow, reduce venous stasis, and help prevent blood clot formation in the legs.",
+    "rating": 4.5,
+    "image_url": "",
+    "prices": {
+      "Small": 1250,
+      "Medium": 1300,
+      "Large": 1350,
+      "XL": 1400
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "elbow_crutch_adjustable",
+    "name": "Elbow Crutch Adjustable",
+    "brand": "Cure",
+    "body_part": "Leg",
+    "sub_cat": "Walking stick",
+    "short_desc": "Tynor Elbow Crutch Adjustable is designed to provide stable and comfortable support for individuals requiring assisted mobility. It enables effective weight transfer from the lower body to the upper b",
+    "rating": 4.5,
+    "image_url": "",
+    "prices": {
+      "One Size": 450
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "medical_compression_stocking_knee_high_class_2_(pair)",
+    "name": "Medical Compression Stocking Knee High Class 2 (Pair)",
+    "brand": "Cure",
+    "body_part": "Leg",
+    "sub_cat": "Compression Garment",
+    "short_desc": "Tynor Medical Compression Stockings are designed to provide controlled, graduated compression that improves blood circulation, reduces swelling, and relieves leg discomfort. They help minimize fatigue",
+    "rating": 4.1,
+    "image_url": "",
+    "prices": {
+      "Small": 2150,
+      "Medium": 2250,
+      "Large": 2350,
+      "XL": 2450,
+      "XXL": 2550
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock",
+      "XXL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "pod_commode_chair",
+    "name": "POD Commode Chair",
+    "brand": "Cure",
+    "body_part": "Leg",
+    "sub_cat": "POD",
+    "short_desc": "",
+    "rating": 4.5,
+    "image_url": "",
+    "prices": {
+      "One Size": 900
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "pod_crutch",
+    "name": "POD Crutch",
+    "brand": "Cure",
+    "body_part": "Leg",
+    "sub_cat": "POD",
+    "short_desc": "",
+    "rating": 4.4,
+    "image_url": "",
+    "prices": {
+      "One Size": 600
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "pod_quadri_grey",
+    "name": "POD Quadri Grey",
+    "brand": "Cure",
+    "body_part": "Leg",
+    "sub_cat": "POD",
+    "short_desc": "",
+    "rating": 4.5,
+    "image_url": "",
+    "prices": {
+      "One Size": 700
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "pod_tripod",
+    "name": "POD Tripod",
+    "brand": "Cure",
+    "body_part": "Leg",
+    "sub_cat": "POD",
+    "short_desc": "",
+    "rating": 4.7,
+    "image_url": "",
+    "prices": {
+      "One Size": 850
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "pod_walker",
+    "name": "POD Walker",
+    "brand": "Cure",
+    "body_part": "Leg",
+    "sub_cat": "POD",
+    "short_desc": "",
+    "rating": 4.6,
+    "image_url": "",
+    "prices": {
+      "One Size": 900
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "pod_walking_stick",
+    "name": "POD Walking Stick",
+    "brand": "Cure",
+    "body_part": "Leg",
+    "sub_cat": "POD",
+    "short_desc": "",
+    "rating": 4.7,
+    "image_url": "",
+    "prices": {
+      "One Size": 650
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "pod_quadra_stick",
+    "name": "Pod Quadra Stick",
+    "brand": "Cure",
+    "body_part": "Leg",
+    "sub_cat": "POD",
+    "short_desc": "",
+    "rating": 4.3,
+    "image_url": "",
+    "prices": {
+      "One Size": 1000
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "pod_tetra_(19mm)",
+    "name": "Pod Tetra (19mm)",
+    "brand": "Cure",
+    "body_part": "Leg",
+    "sub_cat": "POD",
+    "short_desc": "",
+    "rating": 4.3,
+    "image_url": "",
+    "prices": {
+      "One Size": 800
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "pod_trio_(19mm)",
+    "name": "Pod Trio (19mm)",
+    "brand": "Cure",
+    "body_part": "Leg",
+    "sub_cat": "POD",
+    "short_desc": "",
+    "rating": 4.5,
+    "image_url": "",
+    "prices": {
+      "One Size": 800
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "quadra_stick",
+    "name": "Quadra Stick",
+    "brand": "Cure",
+    "body_part": "Leg",
+    "sub_cat": "Walking stick",
+    "short_desc": "",
+    "rating": 4.3,
+    "image_url": "",
+    "prices": {
+      "One Size": 950
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "walking_stick_with_seat",
+    "name": "WALKING STICK WITH SEAT",
+    "brand": "Cure",
+    "body_part": "Leg",
+    "sub_cat": "Walking stick",
+    "short_desc": "Tynor Walking Stick with Seat is a specifically designed product to provide the combined benefits of traditional walking stick and a foldable seat. It offers assistance while walking along with a comf",
+    "rating": 4.6,
+    "image_url": "",
+    "prices": {
+      "One Size": 450
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "walker_foldable_ergo",
+    "name": "Walker Foldable Ergo",
+    "brand": "Cure",
+    "body_part": "Leg",
+    "sub_cat": "Walker",
+    "short_desc": "Tynor Walker Foldable Ergo provides assisted mobility with stable support, controlled movement, and functional convenience for users requiring walking aid.",
+    "rating": 4.4,
+    "image_url": "",
+    "prices": {
+      "One Size": 500
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "walker_invalid's_-_all_pods",
+    "name": "Walker Invalid's - All Pods",
+    "brand": "Cure",
+    "body_part": "Leg",
+    "sub_cat": "Walker",
+    "short_desc": "",
+    "rating": 4.5,
+    "image_url": "",
+    "prices": {
+      "Small": 400,
+      "Medium": 500,
+      "Large": 600,
+      "XL": 700
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "walker_invalid's_front_wheels",
+    "name": "Walker Invalid's Front Wheels",
+    "brand": "Cure",
+    "body_part": "Leg",
+    "sub_cat": "Walker",
+    "short_desc": "Tynor Walker Invalid’s – Front Wheels – Al provides assisted mobility support with controlled movement, stability, and ease of use for individuals requiring walking aid.",
+    "rating": 4.8,
+    "image_url": "",
+    "prices": {
+      "One Size": 900
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "walker_invalid's_hd",
+    "name": "Walker Invalid's HD",
+    "brand": "Cure",
+    "body_part": "Leg",
+    "sub_cat": "Walker",
+    "short_desc": "Tynor Walker Invalid’s HD – With Wheels is a high-performance mobility aid designed to provide enhanced support, stability, and ease of movement for elderly, injured, or physically challenged individu",
+    "rating": 4.8,
+    "image_url": "",
+    "prices": {
+      "One Size": 800
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "walker_invalid's_hd_all_pods",
+    "name": "Walker Invalid's HD All Pods",
+    "brand": "Cure",
+    "body_part": "Leg",
+    "sub_cat": "Walker",
+    "short_desc": "Tynor Walker Invalid’s Heavy Duty – All Pods is a robust walking aid designed to provide enhanced stability, support, and confidence for elderly, injured, or physically challenged individuals. Its dur",
+    "rating": 4.7,
+    "image_url": "",
+    "prices": {
+      "One Size": 900
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "walker_invalid's_reciprocating_all_pods",
+    "name": "Walker Invalid's Reciprocating All Pods",
+    "brand": "Cure",
+    "body_part": "Leg",
+    "sub_cat": "Walker",
+    "short_desc": "Tynor Walker Invalid’s Reciprocating is an advanced mobility aid designed to provide superior support, stability, and a more natural walking experience for elderly, weak, injured, or physically challe",
+    "rating": 4.3,
+    "image_url": "",
+    "prices": {
+      "One Size": 700
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "walking_stick",
+    "name": "Walking Stick",
+    "brand": "Cure",
+    "body_part": "Leg",
+    "sub_cat": "Walking stick",
+    "short_desc": "",
+    "rating": 4.8,
+    "image_url": "",
+    "prices": {
+      "One Size": 450
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "walking_stick_l_type",
+    "name": "Walking Stick L type",
+    "brand": "Cure",
+    "body_part": "Leg",
+    "sub_cat": "Walking stick",
+    "short_desc": "",
+    "rating": 4.3,
+    "image_url": "",
+    "prices": {
+      "One Size": 700
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "walking_stick_quadripod",
+    "name": "Walking Stick Quadripod",
+    "brand": "Cure",
+    "body_part": "Leg",
+    "sub_cat": "Walking stick",
+    "short_desc": "",
+    "rating": 4.7,
+    "image_url": "",
+    "prices": {
+      "One Size": 550
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "walking_stick_tripod",
+    "name": "Walking Stick Tripod",
+    "brand": "Cure",
+    "body_part": "Leg",
+    "sub_cat": "Walking stick",
+    "short_desc": "Tynor Walking Stick Tripod is designed to provide superior support and stability for individuals with mobility challenges. With its tripod base, it offers enhanced balance and confidence compared to c",
+    "rating": 4.1,
+    "image_url": "",
+    "prices": {
+      "One Size": 750
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "wheelchair_standard",
+    "name": "Wheelchair Standard",
+    "brand": "Cure",
+    "body_part": "Leg",
+    "sub_cat": "Wheel Chair",
+    "short_desc": "Tynor Wheelchair is designed to provide mobility, stability, and user comfort for individuals with limited movement. It enables smooth maneuverability, supports both self-propulsion and caregiver-assi",
+    "rating": 4.5,
+    "image_url": "",
+    "prices": {
+      "One Size": 750
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "compression_stocking_mid_thigh_classic_(pair)",
+    "name": "Compression Stocking Mid Thigh Classic (Pair)",
+    "brand": "Cure",
+    "body_part": "Leg, thigh",
+    "sub_cat": "Compression Garment",
+    "short_desc": "Tynor Compression Stockings are designed to provide graduated compression that supports venous return, reduces swelling, and improves circulation in the lower limbs.",
+    "rating": 4.4,
+    "image_url": "",
+    "prices": {
+      "Small": 1900,
+      "Medium": 2000,
+      "Large": 2100,
+      "XL": 2200,
+      "XXL": 2300
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock",
+      "XXL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "dvt_stocking_thigh_high_(pair)",
+    "name": "D.V.T. Stocking Thigh High (Pair)",
+    "brand": "Cure",
+    "body_part": "Leg, thigh",
+    "sub_cat": "Compression Garment",
+    "short_desc": "Tynor D.V.T Stocking provides graduated compression to improve venous blood flow, reduce venous stasis, and help prevent blood clot formation in the legs.",
+    "rating": 4.6,
+    "image_url": "",
+    "prices": {
+      "Small": 2300,
+      "Medium": 2350,
+      "Large": 2400,
+      "XL": 2450
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "medical_compression_stocking_thigh_high_class_2_(pair)",
+    "name": "Medical Compression Stocking Thigh High Class 2 (Pair)",
+    "brand": "Cure",
+    "body_part": "Leg, thigh",
+    "sub_cat": "Compression Garment",
+    "short_desc": "Tynor Medical Compression Stockings are designed to provide controlled, graduated compression that improves blood circulation, reduces swelling, and relieves leg discomfort. They help minimize fatigue",
+    "rating": 4.5,
+    "image_url": "",
+    "prices": {
+      "Small": 1950,
+      "Medium": 2000,
+      "Large": 2050,
+      "XL": 2100,
+      "XXL": 2150
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock",
+      "XXL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "cervical_collar_hard_adjustable",
+    "name": "Cervical Collar Hard Adjustable",
+    "brand": "Cure",
+    "body_part": "Neck",
+    "sub_cat": "Collar & Neck",
+    "short_desc": "Tynor Cervical Collar Hard Adjustable is designed to provide strong immobilization and support to the cervical spine. It helps restrict unwanted neck movement, stabilizes the head and neck, and aids i",
+    "rating": 4.5,
+    "image_url": "",
+    "prices": {
+      "Small": 500,
+      "Medium": 600,
+      "Large": 700,
+      "XL": 800
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "cervical_collar_soft",
+    "name": "Cervical Collar Soft",
+    "brand": "Cure",
+    "body_part": "Neck",
+    "sub_cat": "Collar & Neck",
+    "short_desc": "Tynor Cervical Collar Soft is designed to provide gentle support and stabilization to the neck. It helps protect the cervical spine from sudden jerks and vibrations, making it ideal for mild condition",
+    "rating": 4.3,
+    "image_url": "",
+    "prices": {
+      "Small": 550,
+      "Medium": 650,
+      "Large": 750,
+      "XL": 850
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "cervical_collar_soft_with_support",
+    "name": "Cervical Collar Soft with Support",
+    "brand": "Cure",
+    "body_part": "Neck",
+    "sub_cat": "Collar & Neck",
+    "short_desc": "Tynor Cervical Collar Soft with Support is designed to immobilize and support the cervical region. It restricts unwanted neck movement, stabilizes the head and neck, and provides a structured resting",
+    "rating": 4.3,
+    "image_url": "",
+    "prices": {
+      "Small": 650,
+      "Medium": 700,
+      "Large": 750,
+      "XL": 800
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "cervical_orthosis_(philadelphia)_ethafoam",
+    "name": "Cervical Orthosis (Philadelphia) Ethafoam",
+    "brand": "Cure",
+    "body_part": "Neck",
+    "sub_cat": "Collar & Neck",
+    "short_desc": "Tynor Cervical Orthosis (Philadelphia) is designed to provide complete immobilization and strong support to the cervical spine. It stabilizes the neck and head, restricts unwanted movement, and aids i",
+    "rating": 4.6,
+    "image_url": "",
+    "prices": {
+      "Small": 700,
+      "Medium": 800,
+      "Large": 900,
+      "XL": 1000
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "cervical_pillow_regular",
+    "name": "Cervical Pillow Regular",
+    "brand": "Cure",
+    "body_part": "Neck",
+    "sub_cat": "Pillow",
+    "short_desc": "Tynor Cervical Pillow Regular is designed to provide support to the head and neck by maintaining the natural cervical curvature. It helps improve sleeping posture and supports comfort in conditions as",
+    "rating": 4.3,
+    "image_url": "",
+    "prices": {
+      "One Size": 850
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "contoured_cervical_pillow",
+    "name": "Contoured Cervical Pillow",
+    "brand": "Cure",
+    "body_part": "Neck",
+    "sub_cat": "Pillow",
+    "short_desc": "Tynor Contoured Cervical Pillow is designed to support the head and neck by maintaining proper alignment and promoting a natural sleeping posture.",
+    "rating": 4.4,
+    "image_url": "",
+    "prices": {
+      "One Size": 900
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "neck_corrector_&_relaxer",
+    "name": "Neck Corrector & Relaxer",
+    "brand": "Cure",
+    "body_part": "Neck",
+    "sub_cat": "Collar & Neck",
+    "short_desc": "Tynor Neck Corrector & Relaxer is designed to relieve neck pain, stiffness, and posture-related discomfort caused by long screen time or poor posture. It gently stretches the neck, supports the natura",
+    "rating": 4.3,
+    "image_url": "",
+    "prices": {
+      "One Size": 500
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "elite_car_neck_pillow",
+    "name": "Elite Car Neck Pillow",
+    "brand": "Life",
+    "body_part": "Neck",
+    "sub_cat": "Travel Pillow",
+    "short_desc": "Tynor Elite Car Neck Pillow enhances driving comfort by providing relaxed and supported neck positioning throughout your journey. It maintains proper neck posture by filling the gap between the neck a",
+    "rating": 4.2,
+    "image_url": "",
+    "prices": {
+      "One Size": 450
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "elite_ortho_contoured_memory_pillow",
+    "name": "Elite Ortho Contoured Memory Pillow",
+    "brand": "Life",
+    "body_part": "Neck",
+    "sub_cat": "Pillow",
+    "short_desc": "",
+    "rating": 4.8,
+    "image_url": "",
+    "prices": {
+      "One Size": 950
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "elite_ortho_memory_child_pillow",
+    "name": "Elite Ortho Memory Child Pillow",
+    "brand": "Life",
+    "body_part": "Neck",
+    "sub_cat": "Pillow",
+    "short_desc": "Tynor Elite Ortho Memory Child Pillow is thoughtfully designed to provide gentle support to a child’s head and neck while promoting proper spinal alignment during sleep. Made with high-quality memory",
+    "rating": 4.2,
+    "image_url": "",
+    "prices": {
+      "One Size": 600
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "elite_pregnancy_memory_pillow",
+    "name": "Elite Pregnancy Memory Pillow",
+    "brand": "Life",
+    "body_part": "Neck",
+    "sub_cat": "Pillow",
+    "short_desc": "Tynor Elite Pregnancy Memory Pillow is scientifically designed to provide gentle and effective support to the belly during pregnancy, ensuring a comfortable and restful sleep. It fills the gap between",
+    "rating": 4.7,
+    "image_url": "",
+    "prices": {
+      "One Size": 550
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "elite_travel_pillow",
+    "name": "Elite Travel Pillow",
+    "brand": "Life",
+    "body_part": "Neck",
+    "sub_cat": "Travel Pillow",
+    "short_desc": "Tynor Elite Travel Pillow ensures relaxed and comfortable support for the neck and head during travel. Its punch-hole design with infused cooling gel technology helps maintain a cool and comfortable f",
+    "rating": 4.7,
+    "image_url": "",
+    "prices": {
+      "One Size": 750
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "royal_travel_pillow",
+    "name": "Royal Travel Pillow",
+    "brand": "Life",
+    "body_part": "Neck",
+    "sub_cat": "Travel Pillow",
+    "short_desc": "Royal rest, whenever you travel with Tynor Royale Travel Pillow, designed to provide plush support to the neck and head. It gently cradles the head to reduce unnecessary neck movement and enhance comf",
+    "rating": 4.4,
+    "image_url": "",
+    "prices": {
+      "One Size": 650
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "elastic_shoulder_immobiliser",
+    "name": "Elastic Shoulder Immobiliser",
+    "brand": "Cure",
+    "body_part": "Shoulder",
+    "sub_cat": "Shoulder support",
+    "short_desc": "Tynor Elastic Shoulder Immobilizer is designed to provide effective immobilization and support to the shoulder and upper arm. It helps reduce shoulder movement by keeping the arm close to the body, su",
+    "rating": 4.3,
+    "image_url": "",
+    "prices": {
+      "Small": 1000,
+      "Medium": 1100,
+      "Large": 1200,
+      "XL": 1300
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "shoulder_support_(neo)",
+    "name": "Shoulder Support (Neo)",
+    "brand": "Cure",
+    "body_part": "Shoulder",
+    "sub_cat": "Shoulder Support",
+    "short_desc": "Tynor Shoulder Support (Neoprene) is designed to provide effective support, compression, and warmth to the shoulder joint. It helps maintain proper alignment, reduces pain, and promotes faster healing",
+    "rating": 4.7,
+    "image_url": "",
+    "prices": {
+      "Small": 700,
+      "Medium": 800,
+      "Large": 900,
+      "XL": 1000
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "universal_shoulder_immobiliser",
+    "name": "Universal Shoulder Immobiliser",
+    "brand": "Cure",
+    "body_part": "Shoulder",
+    "sub_cat": "Shoulder support",
+    "short_desc": "Tynor Universal Shoulder Immobilizer is designed to provide strong immobilization to the shoulder and upper arm during injury or post-surgical recovery. It helps maintain proper arm positioning, reduc",
+    "rating": 4.3,
+    "image_url": "",
+    "prices": {
+      "One Size": 600
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "shoulder_support_double_lock_(neo)",
+    "name": "Shoulder Support Double Lock (Neo)",
+    "brand": "Sport",
+    "body_part": "Shoulder",
+    "sub_cat": "Shoulder support",
+    "short_desc": "Tynor Shoulder Support Double Lock (Neo) is designed to provide controlled compression, stability, and support to the shoulder joint, aiding injury prevention and recovery during high-movement activit",
+    "rating": 4.6,
+    "image_url": "",
+    "prices": {
+      "Small": 700,
+      "Medium": 750,
+      "Large": 800,
+      "XL": 850
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "clavicle_brace_with_fastening_tape",
+    "name": "Clavicle Brace with Fastening Tape",
+    "brand": "Cure",
+    "body_part": "Shoulder, Neck",
+    "sub_cat": "Clavicle brace",
+    "short_desc": "Tynor Clavicle Brace with Fastening Tape helps align and stabilize the collarbone after injury or surgery, reducing pain and supporting faster recovery with a comfortable, adjustable fit.",
+    "rating": 4.7,
+    "image_url": "",
+    "prices": {
+      "Small": 850,
+      "Medium": 900,
+      "Large": 950,
+      "XL": 1000,
+      "XXL": 1050
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock",
+      "XXL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "thigh_support_air_pro",
+    "name": "Thigh Support Air Pro",
+    "brand": "Sport",
+    "body_part": "Thigh",
+    "sub_cat": "Thigh Support",
+    "short_desc": "Thigh Support Air Pro is designed to enhance your performance and confidence during sports. It gives optimal compression and support to thigh muscles. It also improves blood flow and muscle density to",
+    "rating": 4.3,
+    "image_url": "",
+    "prices": {
+      "Small": 750,
+      "Medium": 800,
+      "Large": 850,
+      "XL": 900
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "wrist_&_forearm_splint",
+    "name": "Wrist & Forearm Splint",
+    "brand": "Cure",
+    "body_part": "Wrist, Forearm, hand",
+    "sub_cat": "Wrist Splint",
+    "short_desc": "Tynor Wrist & Forearm Splint is designed to immobilize and support the wrist and forearm in a functional position. It restricts excessive wrist movement while allowing free movement of the fingers and",
+    "rating": 4.3,
+    "image_url": "",
+    "prices": {
+      "Small": 900,
+      "Medium": 950,
+      "Large": 1000,
+      "XL": 1050
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "elastic_wrist_splint",
+    "name": "Elastic Wrist Splint",
+    "brand": "Cure",
+    "body_part": "Wrist, hand",
+    "sub_cat": "Wrist Splint",
+    "short_desc": "Tynor Elastic Wrist Splint is designed to immobilize and support the wrist by maintaining it in a functional position. It restricts excessive movement while allowing free motion of the fingers and thu",
+    "rating": 4.8,
+    "image_url": "",
+    "prices": {
+      "Small": 850,
+      "Medium": 950,
+      "Large": 1050,
+      "XL": 1150
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "wrist_brace_with_thumb",
+    "name": "Wrist Brace with Thumb",
+    "brand": "Cure",
+    "body_part": "Wrist, hand",
+    "sub_cat": "Wrist support",
+    "short_desc": "Tynor Wrist Brace with Thumb is designed to provide effective compression and support to the wrist while stabilizing the thumb. It helps reduce pain and inflammation by improving circulation and provi",
+    "rating": 4.7,
+    "image_url": "",
+    "prices": {
+      "One Size": 550
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "wrist_splint_ambidextros",
+    "name": "Wrist Splint Ambidextros",
+    "brand": "Cure",
+    "body_part": "Wrist, hand",
+    "sub_cat": "Wrist Splint",
+    "short_desc": "Tynor Wrist Splint Ambidextrous is designed to immobilize and support the wrist in a functional position. It restricts unnecessary movement while allowing free motion of the fingers and thumb. Its amb",
+    "rating": 4.4,
+    "image_url": "",
+    "prices": {
+      "Small": 650,
+      "Medium": 750,
+      "Large": 850,
+      "XL": 950
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "wrist_splint_with_thumb",
+    "name": "Wrist Splint with Thumb",
+    "brand": "Cure",
+    "body_part": "Wrist, hand",
+    "sub_cat": "Wrist Splint",
+    "short_desc": "Tynor Wrist Splint With Thumb is designed to immobilize and support both the wrist and thumb in a functional position. It helps restrict unwanted movement, aiding recovery while providing stability an",
+    "rating": 4.6,
+    "image_url": "",
+    "prices": {
+      "Small": 650,
+      "Medium": 750,
+      "Large": 850,
+      "XL": 950
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "tynogrip_weightlifting_strap",
+    "name": "Tynogrip Weightlifting Strap",
+    "brand": "Sport",
+    "body_part": "Wrist, hand",
+    "sub_cat": "Wrist support",
+    "short_desc": "Tynorgrip Weightlifting Strap is designed to improve grip strength and provide reliable wrist support during intense lifting sessions. It reduces grip fatigue, enhances control, and helps you lift hea",
+    "rating": 4.2,
+    "image_url": "",
+    "prices": {
+      "One Size": 450
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "wristband",
+    "name": "WRISTBAND",
+    "brand": "Sport",
+    "body_part": "Wrist, hand",
+    "sub_cat": "Wrist support",
+    "short_desc": "Tynor Wristband is a stylish sweat-absorbing band designed to absorb sweat effectively during sports activity. It helps reduce distractions caused by moisture. Its soft and stretchable design ensures",
+    "rating": 4.8,
+    "image_url": "",
+    "prices": {
+      "One Size": 350
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "wrist_support_(neo)",
+    "name": "Wrist Support (Neo)",
+    "brand": "Sport",
+    "body_part": "Wrist, hand",
+    "sub_cat": "Wrist support",
+    "short_desc": "Tynor Wrist Support (Neo) provides targeted compression and stability to enhance wrist performance during workouts and sports. It supports heavy lifting, reduces strain, and improves control while all",
+    "rating": 4.6,
+    "image_url": "",
+    "prices": {
+      "One Size": 500
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "wrist_support_with_thumb_loop_(neo)",
+    "name": "Wrist Support With Thumb Loop (Neo)",
+    "brand": "Sport",
+    "body_part": "Wrist, hand",
+    "sub_cat": "Wrist support",
+    "short_desc": "",
+    "rating": 4.2,
+    "image_url": "",
+    "prices": {
+      "One Size": 300
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "wrist_wrap_with_thumb_loop",
+    "name": "Wrist Wrap With Thumb Loop",
+    "brand": "Sport",
+    "body_part": "Wrist, hand",
+    "sub_cat": "Wrist support",
+    "short_desc": "Tynor Wrist Wrap with Thumb Loop provides firm compression and stability to support your wrists during intense workouts. It enhances lifting strength, improves control, and helps prevent injuries whil",
+    "rating": 4.6,
+    "image_url": "",
+    "prices": {
+      "One Size": 300
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "cool_pack",
+    "name": "Cool Pack",
+    "brand": "Cure",
+    "body_part": "other",
+    "sub_cat": "Hot & Cold",
+    "short_desc": "Tynor Cool Pack delivers instant cooling relief to reduce swelling, inflammation, and pain, helping you recover faster from injuries, strain, or everyday discomfort.",
+    "rating": 4.2,
+    "image_url": "",
+    "prices": {
+      "Small": 550,
+      "Medium": 600,
+      "Large": 650,
+      "XL": 700
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "exercising_ball_pu",
+    "name": "Exercising Ball PU",
+    "brand": "Cure",
+    "body_part": "other",
+    "sub_cat": "Exercise ball",
+    "short_desc": "Tynor Exercising Ball (Neuro/Ortho) is designed to strengthen the muscles of the hand, wrist, forearm, and fingers. It provides the ideal resistance for rehabilitation exercises, physical therapy, and",
+    "rating": 4.3,
+    "image_url": "",
+    "prices": {
+      "Small": 750,
+      "Medium": 800,
+      "Large": 850,
+      "XL": 900
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "heating_pad",
+    "name": "Heating Pad",
+    "brand": "Cure",
+    "body_part": "other",
+    "sub_cat": "Hot & Cold",
+    "short_desc": "Tynor Heating Pad Ortho is designed to deliver consistent and controlled heat therapy to relieve muscle pain, stiffness, and discomfort. It enhances blood circulation and promotes faster recovery, mak",
+    "rating": 4.1,
+    "image_url": "",
+    "prices": {
+      "Small": 850,
+      "Medium": 900,
+      "Large": 950,
+      "XL": 1000
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "hot_&_cold_pack_(beads)",
+    "name": "Hot & Cold Pack (Beads)",
+    "brand": "Cure",
+    "body_part": "other",
+    "sub_cat": "Hot & Cold",
+    "short_desc": "Tynor Hot & Cold Pack (Beads) provides dual-purpose therapy for effective pain relief, reducing inflammation and soothing muscle stiffness through both hot and cold application.",
+    "rating": 4.7,
+    "image_url": "",
+    "prices": {
+      "One Size": 500
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "ortho_heating_gel_bag_(fab)",
+    "name": "ORTHO HEATING GEL BAG (FAB)",
+    "brand": "Cure",
+    "body_part": "other",
+    "sub_cat": "Hot & Cold",
+    "short_desc": "",
+    "rating": 4.4,
+    "image_url": "",
+    "prices": {
+      "One Size": 750
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "ortho_heating_gel_bag_(poly)",
+    "name": "ORTHO HEATING GEL BAG (POLY)",
+    "brand": "Cure",
+    "body_part": "other",
+    "sub_cat": "Hot & Cold",
+    "short_desc": "",
+    "rating": 4.5,
+    "image_url": "",
+    "prices": {
+      "One Size": 950
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "ortho_stockinette_10_m",
+    "name": "Ortho Stockinette 10 m",
+    "brand": "Cure",
+    "body_part": "other",
+    "sub_cat": "Compression Garment",
+    "short_desc": "",
+    "rating": 4.8,
+    "image_url": "",
+    "prices": {
+      "Small": 950,
+      "Medium": 1050,
+      "Large": 1150,
+      "XL": 1250
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "super_exercising_gel_ball",
+    "name": "Super Exercising Gel Ball",
+    "brand": "Cure",
+    "body_part": "other",
+    "sub_cat": "Exercise ball",
+    "short_desc": "",
+    "rating": 4.4,
+    "image_url": "",
+    "prices": {
+      "Small": 600,
+      "Medium": 650,
+      "Large": 700,
+      "XL": 750
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "tynocrepe",
+    "name": "Tynocrepe",
+    "brand": "Cure",
+    "body_part": "other",
+    "sub_cat": "Crepe bandage",
+    "short_desc": "",
+    "rating": 4.7,
+    "image_url": "",
+    "prices": {
+      "Small": 900,
+      "Medium": 950,
+      "Large": 1000,
+      "XL": 1050
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "tyroband",
+    "name": "Tyroband",
+    "brand": "Cure",
+    "body_part": "other",
+    "sub_cat": "Tyro band",
+    "short_desc": "Tynor Tyroband provides effective resistance for muscle strengthening and progressive rehabilitation, improving balance, coordination, and overall functional training.",
+    "rating": 4.4,
+    "image_url": "",
+    "prices": {
+      "One Size": 850
+    },
+    "availability": {
+      "One Size": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "yoga_mat_eva",
+    "name": "Yoga mat Eva",
+    "brand": "Sport",
+    "body_part": "other",
+    "sub_cat": "Yoga",
+    "short_desc": "Tynor Yoga Mat (EVA) is designed to provide a stable and cushioned surface for yoga, fitness, and daily exercise. It reduces joint strain, enhances grip, and supports balance, making it suitable for b",
+    "rating": 4.6,
+    "image_url": "",
+    "prices": {
+      "Small": 600,
+      "Medium": 650,
+      "Large": 700,
+      "XL": 750
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  },
+  {
+    "product_id": "yoga_mat_tpe",
+    "name": "Yoga mat TPE",
+    "brand": "Sport",
+    "body_part": "other",
+    "sub_cat": "Yoga",
+    "short_desc": "Tynor Yoga Mat (TPE) is designed to provide a comfortable and stable surface for yoga and fitness activities. It offers effective cushioning to reduce strain on joints while ensuring a strong grip for",
+    "rating": 4.2,
+    "image_url": "",
+    "prices": {
+      "Small": 950,
+      "Medium": 1000,
+      "Large": 1050,
+      "XL": 1100
+    },
+    "availability": {
+      "Small": "in_stock",
+      "Medium": "in_stock",
+      "Large": "in_stock",
+      "XL": "in_stock"
+    },
+    "activity": [],
+    "attributes": [],
+    "conditions": [],
+    "easy_names": [],
+    "is_synthetic": false
+  }
+]
