@@ -441,6 +441,16 @@ def show_header():
     section[data-testid="stVerticalBlock"] .stButton > button:not([kind="primary"]):hover { background: #3a1f45 !important; border-color: #9B3DAE !important; color: #c388d4 !important; }
     .stAlert { background: #2a1332 !important; }
     .skeleton { background: linear-gradient(90deg, #2a1332 25%, #3a1f45 50%, #2a1332 75%) !important; }
+    /* Force all text visible in dark mode */
+    .stMarkdown p, .stMarkdown span, .stMarkdown li,
+    [data-testid="stMarkdownContainer"] p,
+    [data-testid="stMarkdownContainer"] span { color: #e8d5f0 !important; }
+    [data-testid="stAlert"] p, [data-testid="stAlert"] span,
+    [data-testid="stAlert"] div { color: #e8d5f0 !important; }
+    [data-testid="stVerticalBlockBorderWrapper"] p,
+    [data-testid="stVerticalBlockBorderWrapper"] span { color: #e8d5f0 !important; }
+    .stButton > button { color: #d4b8e0 !important; }
+    .stButton > button[kind="primary"] { color: white !important; }
     .step-dot { background: #3a1f45 !important; }
     .step-dot.done { background: linear-gradient(135deg, #9B3DAE, #6a2578) !important; }
     .step-dot.current { background: #9B3DAE !important; }
@@ -847,18 +857,18 @@ FAQS_BY_TYPE = {
 }
 
 REGIONS = {
+    "Abdominal": ["Abdominal"],
+    "Ankle":     ["Ankle","Foot"],
+    "Back":      ["Back","Back, neck"],
+    "Calf":      ["Calf","Leg"],
+    "Chest":     ["Chest"],
+    "Elbow":     ["Elbow"],
     "Finger":    ["Hand, Finger"],
+    "Knee":      ["Knee"],
     "Neck":      ["Neck","Shoulder, Neck"],
     "Shoulder":  ["Shoulder"],
-    "Elbow":     ["Elbow"],
-    "Wrist":     ["Wrist, hand","Hand, wrist","Wrist, Forearm, hand","Hand","Forearm, arm"],
-    "Chest":     ["Chest"],
-    "Back":      ["Back","Back, neck"],
-    "Abdominal": ["Abdominal"],
-    "Knee":      ["Knee"],
     "Thigh":     ["Thigh","Leg, thigh"],
-    "Calf":      ["Calf","Leg"],
-    "Ankle":     ["Ankle","Foot"],
+    "Wrist":     ["Wrist, hand","Hand, wrist","Wrist, Forearm, hand","Hand","Forearm, arm"],
 }
 
 PROBLEM_REGION_MAP = {
@@ -1100,7 +1110,7 @@ def show_summary():
     step = ss.get('step', 0)
     if not isinstance(step, int) or step <= 1: return
     parts = []
-    if ss.get('region'):  parts.append(f"📍 {ss['region']}")
+    if ss.get('region'):  parts.append(f"{ss['region']}")
     if ss.get('intent'):  parts.append(f"🎯 {ss['intent']}")
     if ss.get('problem'): parts.append(f"🩺 {ss['problem'][:28]}{'…' if len(ss.get('problem',''))>28 else ''}")
     if parts:
@@ -1252,7 +1262,7 @@ def reset():
     for k in list(st.session_state.keys()): del st.session_state[k]
 
 def nav(next_label="Next →", condition=True):
-    c1,c2 = st.columns([1,3])
+    c1,c2 = st.columns(2)
     with c1:
         if st.session_state.get("history"):
             if st.button("← Back", use_container_width=True):
@@ -1446,7 +1456,7 @@ def render_body_map(interactive=True):
             st.markdown(
                 f"<div style='text-align:center;font-weight:700;color:#9B3DAE;"
                 f"font-size:1.1rem;margin-top:6px;font-family:Poppins,sans-serif;'>"
-                f"📍 {selected_r}</div>",
+                f"{selected_r}</div>",
                 unsafe_allow_html=True
             )
             if step != 0:
@@ -1477,11 +1487,6 @@ if step == "result":
     safety_flags = st.session_state.get("safety_flags", [])
     if safety_flags:
         st.warning(f"⚠️ You mentioned: **{', '.join(safety_flags)}**. Please consult a doctor before using any support. The recommendation below is for interim relief only.")
-
-    if "celebrated" not in st.session_state:
-        st.balloons()
-        st.session_state.celebrated = True
-
     intent = st.session_state.intent
     region = st.session_state.region
 
@@ -1568,75 +1573,34 @@ else:
 
     if step == 0:
         st.markdown("""
-<div style="text-align:center; margin-bottom:28px;">
+<div style="text-align:center; margin-bottom:24px;">
     <div style="font-family:Poppins,sans-serif; font-size:2rem; font-weight:800;
-    letter-spacing:1px; color:#2b1830; text-transform:uppercase; line-height:1.2;">
+    letter-spacing:1px; color:#2b1830; text-transform:uppercase;">
     Where does it hurt?
     </div>
     <div style="font-family:Poppins,sans-serif; font-size:1rem; color:#9B3DAE;
-    font-weight:500; margin-top:8px;">
+    font-weight:500; margin-top:6px;">
     Select the body part closest to your pain
     </div>
 </div>
 """, unsafe_allow_html=True)
 
-        # Region cards — icons mapped to body parts
-        REGION_ICONS = {
-            "Finger":    "✋", "Neck":      "🫀", "Shoulder":  "💪",
-            "Elbow":     "🦾", "Wrist":     "⌚", "Chest":     "❤️",
-            "Back":      "🔙", "Abdominal": "🫃", "Knee":      "🦵",
-            "Thigh":     "🩳", "Calf":      "🦿", "Ankle":     "👟",
-        }
-
-        # Build card HTML for the region grid
-        regions_list = list(REGIONS.keys())
-        
-        # 4 columns, 3 rows
-        for row_start in range(0, len(regions_list), 4):
-            cols = st.columns(4)
-            for col_idx, region in enumerate(regions_list[row_start:row_start+4]):
+        regions_list = sorted(REGIONS.keys())
+        st.markdown('<div style="max-height:420px;overflow-y:auto;padding-right:4px;">', unsafe_allow_html=True)
+        for row_start in range(0, len(regions_list), 3):
+            cols = st.columns(3)
+            for col_idx, region in enumerate(regions_list[row_start:row_start+3]):
                 with cols[col_idx]:
-                    st.markdown(f"""
-<div style="
-    background: white;
-    border: 2px solid #ecd9f2;
-    border-radius: 16px;
-    padding: 16px 8px;
-    text-align: center;
-    cursor: pointer;
-    transition: all 0.18s ease;
-    box-shadow: 0 2px 8px rgba(123,45,139,0.06);
-    margin-bottom: 4px;
-    font-family: Poppins, sans-serif;
-">
-    <div style="font-size:0.7rem; font-weight:600; color:#9B3DAE;
-    letter-spacing:3px; text-transform:uppercase; margin-bottom:6px;">
-    {region}
-    </div>
-    <div style="width:40px; height:3px; background:linear-gradient(90deg,#9B3DAE,#c388d4);
-    border-radius:2px; margin:0 auto;"></div>
-</div>
-""", unsafe_allow_html=True)
-                    if st.button(region, use_container_width=True,
-                                 key=f"region_card_{region}",
-                                 help=f"Select {region}"):
-                        st.session_state.region = region
-                        push(1); st.rerun()
+                    if st.button(region, use_container_width=True, key=f"rbtn_{region}"):
+                        st.session_state.region = region; push(1); st.rerun()
+        st.markdown('</div>', unsafe_allow_html=True)
+
 
     else:
-        # Steps 1+ — body map mini on left, scrollable questions on right
-        left_col, right_col = st.columns([1, 1.2])
-
-        with left_col:
-            render_body_map(interactive=False)
-
-        with right_col:
-            show_summary()
-            # Scrollable question container
-            st.markdown("""
-<div style="max-height:520px; overflow-y:auto; padding-right:6px;
-scrollbar-width:thin; scrollbar-color:#c388d4 #f9f0fc;">
-""", unsafe_allow_html=True)
+        # Steps 1+ — full width scrollable
+        show_summary()
+        st.markdown('<div style="max-height:520px;overflow-y:auto;padding-right:6px;scrollbar-width:thin;scrollbar-color:#c388d4 #f9f0fc;">', unsafe_allow_html=True)
+        if True:
 
             # ── Step 1: Age ──────────────────────────────────────────────────
             if step == 1:
