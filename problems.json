@@ -1,0 +1,1115 @@
+{
+  "Body region": [
+    {
+      "medical_name": "Medical name",
+      "easy_name": "Easy name (DRAFT)",
+      "products": [
+        "Suggested products (from matrix)"
+      ]
+    }
+  ],
+  "Back / Spine": [
+    {
+      "medical_name": "Lumbar Spondylitis",
+      "easy_name": "Lower back pain from wear and tear",
+      "products": [
+        "LS Belt Lumbopore",
+        "Lumbo Sacral Belt",
+        "Contoured L.S. Support",
+        "Lumbo Support Uni",
+        "Lumbo Lacepull Brace",
+        "Lacepull L.S Belt",
+        "Back support belt"
+      ]
+    },
+    {
+      "medical_name": "Spondylolisthesis",
+      "easy_name": "Slipped spine bone (lower back)",
+      "products": [
+        "LS Belt Lumbopore",
+        "Lumbo Sacral Belt",
+        "Contoured L.S. Support",
+        "Lumbo Support Uni",
+        "Lumbo Lacepull Brace",
+        "Lacepull L.S Belt",
+        "Back support belt"
+      ]
+    },
+    {
+      "medical_name": "Lumbago, Postural Fatigue",
+      "easy_name": "General lower back pain / tired back",
+      "products": [
+        "LS Belt Lumbopore",
+        "Lumbo Sacral Belt",
+        "Contoured L.S. Support",
+        "Lumbo Support Uni",
+        "Lumbo Lacepull Brace",
+        "Lacepull L.S Belt",
+        "Back support belt"
+      ]
+    },
+    {
+      "medical_name": "Sciatica Pain",
+      "easy_name": "Back pain that shoots down the leg",
+      "products": [
+        "LS Belt Lumbopore",
+        "Lumbo Sacral Belt",
+        "Contoured L.S. Support",
+        "Lumbo Lacepull Brace",
+        "Lacepull L.S Belt",
+        "Back support belt"
+      ]
+    },
+    {
+      "medical_name": "Post-Operative Care Of The Spine",
+      "easy_name": "Recovering after back surgery",
+      "products": [
+        "Contoured L.S. Support",
+        "Ash Brace (Hyper Extension Brace)",
+        "Lumbo Lacepull Brace",
+        "Lacepull L.S Belt",
+        "Taylor's Brace Urbane Short/Long",
+        "Back support belt"
+      ]
+    },
+    {
+      "medical_name": "Osteoporetic Pain, Degenrative Changes Of The Spine",
+      "easy_name": "Weak/aging spine pain",
+      "products": [
+        "Ash Brace (Hyper Extension Brace)",
+        "Lumbo Lacepull Brace",
+        "Lacepull L.S Belt",
+        "Taylor's Brace Urbane Short/Long",
+        "Back support belt"
+      ]
+    },
+    {
+      "medical_name": "Stabilized Vertebral Fracture And Injuries",
+      "easy_name": "After a stable spine fracture",
+      "products": [
+        "Ash Brace (Hyper Extension Brace)",
+        "Lumbo Lacepull Brace",
+        "Lacepull L.S Belt",
+        "Taylor's Brace Urbane Short/Long"
+      ]
+    },
+    {
+      "medical_name": "Extrication And Transportation",
+      "easy_name": "Moving an injured person safely",
+      "products": [
+        "Ash Brace (Hyper Extension Brace)",
+        "Lumbo Lacepull Brace",
+        "Lacepull L.S Belt",
+        "Taylor's Brace Urbane Short/Long"
+      ]
+    },
+    {
+      "medical_name": "Decompression Of Ivd",
+      "easy_name": "Relieving pressure on a spinal disc",
+      "products": [
+        "Ash Brace (Hyper Extension Brace)",
+        "Lumbo Lacepull Brace",
+        "Lacepull L.S Belt",
+        "Taylor's Brace Urbane Short/Long"
+      ]
+    },
+    {
+      "medical_name": "Ivd Syndrome, Post Discketomy Care",
+      "easy_name": "Slipped disc / after disc surgery",
+      "products": [
+        "Ash Brace (Hyper Extension Brace)",
+        "Lumbo Lacepull Brace",
+        "Lacepull L.S Belt",
+        "Taylor's Brace Urbane Short/Long"
+      ]
+    },
+    {
+      "medical_name": "Thoraco-Lumbar Injuries/Tuberculosis Of Spine",
+      "easy_name": "Mid/lower spine injury",
+      "products": [
+        "Ash Brace (Hyper Extension Brace)",
+        "Lumbo Lacepull Brace",
+        "Taylor's Brace Urbane Short/Long"
+      ]
+    },
+    {
+      "medical_name": "Postural Deformities Of The Spine (Lordosis/Kyphosis",
+      "easy_name": "Curved or hunched posture",
+      "products": [
+        "Ash Brace (Hyper Extension Brace)",
+        "Taylor's Brace Urbane Short/Long"
+      ]
+    }
+  ],
+  "Ribs / Chest": [
+    {
+      "medical_name": "Rib fracture and dislocations",
+      "easy_name": "Broken or dislocated rib",
+      "products": [
+        "Rib Belt"
+      ]
+    },
+    {
+      "medical_name": "Post cardio thoracic surgery care",
+      "easy_name": "Recovering after chest surgery",
+      "products": [
+        "Rib Belt",
+        "Chest Binder"
+      ]
+    },
+    {
+      "medical_name": "To protect and bind surgical incisions of upper abdomen",
+      "easy_name": "Support after upper-tummy surgery",
+      "products": [
+        "Rib Belt"
+      ]
+    },
+    {
+      "medical_name": "To protect and bind surgical incisions of chest",
+      "easy_name": "Support after chest surgery",
+      "products": [
+        "Chest Binder"
+      ]
+    },
+    {
+      "medical_name": "Ease the process of expulsion of phlegm out of lungs after surgery",
+      "easy_name": "Helps clear chest after surgery",
+      "products": [
+        "Chest Binder"
+      ]
+    },
+    {
+      "medical_name": "Sternum Fracture",
+      "easy_name": "Broken breastbone",
+      "products": [
+        "Chest Binder"
+      ]
+    },
+    {
+      "medical_name": "Post sternotomy",
+      "easy_name": "After open-chest surgery",
+      "products": [
+        "Chest Binder"
+      ]
+    },
+    {
+      "medical_name": "Rib cotusion/ Sprain",
+      "easy_name": "Bruised or strained ribs",
+      "products": [
+        "Rib Belt"
+      ]
+    },
+    {
+      "medical_name": "To protect and bind surgical incisions of the abdomen.",
+      "easy_name": "Support after tummy surgery",
+      "products": [
+        "Rib Belt",
+        "Chest Binder"
+      ]
+    },
+    {
+      "medical_name": "Postoperative care of thorax and abdomen.",
+      "easy_name": "Recovering after chest/tummy surgery",
+      "products": [
+        "Rib Belt",
+        "Chest Binder"
+      ]
+    },
+    {
+      "medical_name": "Used as a general tummy trimmer, to compress the abdominal region and give a slim look to the abdomen",
+      "easy_name": "Tummy compression / slimming look",
+      "products": [
+        "Rib Belt",
+        "Chest Binder"
+      ]
+    },
+    {
+      "medical_name": "For post delivery mothers, to tone up the mellowed abdominal muscles and set the waistline to its Pre-pregnancy dimensions.",
+      "easy_name": "After delivery, tighten tummy",
+      "products": [
+        "Rib Belt",
+        "Chest Binder"
+      ]
+    },
+    {
+      "medical_name": "In umbilical and ventral hernia.",
+      "easy_name": "Hernia support",
+      "products": [
+        "Rib Belt",
+        "Chest Binder"
+      ]
+    },
+    {
+      "medical_name": "Hysterectomy",
+      "easy_name": "After womb-removal surgery",
+      "products": [
+        "Rib Belt",
+        "Chest Binder"
+      ]
+    }
+  ],
+  "Neck (Cervical)": [
+    {
+      "medical_name": "Early Rheumatoid Disease",
+      "easy_name": "Early arthritis (neck)",
+      "products": [
+        "Cervical Collar Soft",
+        "Collar Soft (Firm Density)",
+        "Cervical Pillow Regular"
+      ]
+    },
+    {
+      "medical_name": "Whip Lash Injuries",
+      "easy_name": "Neck jolt / whiplash",
+      "products": [
+        "Cervical Collar Hard Adjustable",
+        "Cervical Collar Hard with chin",
+        "Cervical Orthosis (Philadelphia) Ethafoam",
+        "Cervical Orthosis (Philadelphia) Plastazote"
+      ]
+    },
+    {
+      "medical_name": "Facet Syndrome",
+      "easy_name": "Neck joint pain",
+      "products": [
+        "Cervical Collar Soft",
+        "Collar Soft (Firm Density)",
+        "Cervical Collar Soft with Support"
+      ]
+    },
+    {
+      "medical_name": "Geriatric Care, General Prophylaxis",
+      "easy_name": "General neck support for elderly",
+      "products": [
+        "Cervical Collar Soft",
+        "Collar Soft (Firm Density)",
+        "Cervical Collar Soft with Support",
+        "Cervical Pillow Regular"
+      ]
+    },
+    {
+      "medical_name": "Neck Sprain, Stiff Neck",
+      "easy_name": "Stiff or strained neck",
+      "products": [
+        "Cervical Collar Soft",
+        "Collar Soft (Firm Density)",
+        "Cervical Collar Soft with Support",
+        "Cervical Pillow Regular"
+      ]
+    },
+    {
+      "medical_name": "Cervical Spondylitis",
+      "easy_name": "Neck pain from wear and tear",
+      "products": [
+        "Cervical Collar Soft",
+        "Collar Soft (Firm Density)",
+        "Cervical Collar Soft with Support",
+        "Cervical Collar Hard Adjustable",
+        "Cervical Collar Hard with chin",
+        "Cervical Pillow Regular"
+      ]
+    },
+    {
+      "medical_name": "Cervical Disc Disease",
+      "easy_name": "Slipped disc in the neck",
+      "products": [
+        "Collar Soft (Firm Density)",
+        "Cervical Collar Soft with Support",
+        "Cervical Collar Hard Adjustable",
+        "Cervical Collar Hard with chin",
+        "Cervical Orthosis (Philadelphia) Ethafoam",
+        "Cervical Pillow Regular",
+        "Cervical Orthosis (Philadelphia) Plastazote"
+      ]
+    },
+    {
+      "medical_name": "Torticolles/Muscle Instability",
+      "easy_name": "Twisted/unstable neck",
+      "products": [
+        "Collar Soft (Firm Density)",
+        "Cervical Collar Soft with Support",
+        "Cervical Collar Hard Adjustable",
+        "Cervical Collar Hard with chin",
+        "Cervical Orthosis (Philadelphia) Ethafoam",
+        "Cervical Orthosis (Philadelphia) Plastazote"
+      ]
+    },
+    {
+      "medical_name": "Post Operative Care",
+      "easy_name": "Recovering after neck surgery",
+      "products": [
+        "Collar Soft (Firm Density)",
+        "Cervical Collar Soft with Support",
+        "Cervical Collar Hard Adjustable",
+        "Cervical Collar Hard with chin",
+        "Cervical Orthosis (Philadelphia) Ethafoam",
+        "Cervical Orthosis (Philadelphia) Plastazote"
+      ]
+    },
+    {
+      "medical_name": "Extrication, Trauma First Aid",
+      "easy_name": "Neck support in first aid",
+      "products": [
+        "Cervical Collar Hard Adjustable",
+        "Cervical Collar Hard with chin",
+        "Cervical Orthosis (Philadelphia) Ethafoam",
+        "Cervical Orthosis (Philadelphia) Plastazote"
+      ]
+    },
+    {
+      "medical_name": "Post Traction Stabilization",
+      "easy_name": "Neck support after traction",
+      "products": [
+        "Cervical Collar Hard Adjustable",
+        "Cervical Collar Hard with chin",
+        "Cervical Orthosis (Philadelphia) Ethafoam",
+        "Cervical Orthosis (Philadelphia) Plastazote"
+      ]
+    },
+    {
+      "medical_name": "Fractures Of Cervical Spine",
+      "easy_name": "Broken neck bone",
+      "products": [
+        "Cervical Collar Hard Adjustable",
+        "Cervical Collar Hard with chin",
+        "Cervical Orthosis (Philadelphia) Ethafoam",
+        "Cervical Orthosis (Philadelphia) Plastazote"
+      ]
+    },
+    {
+      "medical_name": "Tuberculosis Of Cervical Spine",
+      "easy_name": "TB of the neck spine",
+      "products": [
+        "Cervical Collar Soft with Support",
+        "Cervical Collar Hard Adjustable",
+        "Cervical Collar Hard with chin",
+        "Cervical Orthosis (Philadelphia) Ethafoam",
+        "Cervical Orthosis (Philadelphia) Plastazote"
+      ]
+    }
+  ],
+  "Ankle / Foot": [
+    {
+      "medical_name": "Mild Arthritis of the ankle joint",
+      "easy_name": "Mild ankle arthritis",
+      "products": [
+        "Ankle Binder",
+        "Anklet (Pair)",
+        "Anklet Comfeel (Pair)",
+        "Ankle Binder Urbane",
+        "Ankle wrap sleek elastic",
+        "Ankle support neoprene",
+        "Ankle wrap neoprene"
+      ]
+    },
+    {
+      "medical_name": "Hemiplegia of the foot",
+      "easy_name": "Weak foot from paralysis",
+      "products": [
+        "Ankle Brace",
+        "Foot Drop Splint Right/Left",
+        "Ankle Splint"
+      ]
+    },
+    {
+      "medical_name": "Achilles Tendinitis",
+      "easy_name": "Pain at back of the heel",
+      "products": [
+        "Ankle Binder",
+        "Ankle Brace",
+        "Anklet (Pair)",
+        "Ankle Splint",
+        "PF Night Splint Derotation",
+        "Ankle Binder Urbane",
+        "Ankle wrap sleek elastic",
+        "Ankle support neoprene",
+        "Ankle wrap neoprene"
+      ]
+    },
+    {
+      "medical_name": "Charcot-Marie-Tooth Disease",
+      "easy_name": "Nerve condition affecting feet",
+      "products": [
+        "Ankle Brace",
+        "Foot Drop Splint Right/Left",
+        "Ankle Splint",
+        "PF Night Splint Derotation",
+        "Foot Drop Splint with liner Right/Left"
+      ]
+    },
+    {
+      "medical_name": "Foot Drop",
+      "easy_name": "Foot that drags / can't lift",
+      "products": [
+        "Foot Drop Splint Right/Left",
+        "PF Night Splint Derotation",
+        "Foot Drop Splint with liner Right/Left"
+      ]
+    },
+    {
+      "medical_name": "Stablized ankle & foot fractures",
+      "easy_name": "After a stable ankle/foot fracture",
+      "products": [
+        "Ankle Brace",
+        "Ankle Splint",
+        "Air Ankle Splint",
+        "Walker Boot",
+        "Walker Boot Air",
+        "Walker Boot Air- Short"
+      ]
+    },
+    {
+      "medical_name": "Stablized forefoot fractures",
+      "easy_name": "After a stable forefoot fracture",
+      "products": [
+        "Walker Boot",
+        "Walker Boot Air",
+        "Walker Boot Air- Short"
+      ]
+    },
+    {
+      "medical_name": "Ankle Plantar flexion contracture",
+      "easy_name": "Stiff ankle (toes pointing down)",
+      "products": [
+        "Foot Drop Splint Right/Left",
+        "PF Night Splint Derotation",
+        "Foot Drop Splint with liner Right/Left"
+      ]
+    },
+    {
+      "medical_name": "Malleolar fractures",
+      "easy_name": "Broken ankle bone",
+      "products": [
+        "Ankle Brace",
+        "Ankle Splint",
+        "Air Ankle Splint"
+      ]
+    },
+    {
+      "medical_name": "Post-operative/post-cast care",
+      "easy_name": "After surgery or cast removal",
+      "products": [
+        "Ankle Binder",
+        "Ankle Brace",
+        "Anklet (Pair)",
+        "Foot Drop Splint Right/Left",
+        "Ankle Splint",
+        "Air Ankle Splint",
+        "PF Night Splint Derotation",
+        "Foot Drop Splint with liner Right/Left",
+        "Walker Boot",
+        "Walker Boot Air",
+        "Walker Boot Air- Short",
+        "Ankle Binder Urbane",
+        "Ankle wrap sleek elastic",
+        "Ankle support neoprene",
+        "Ankle wrap neoprene"
+      ]
+    },
+    {
+      "medical_name": "Recurrent Ankle Sprain",
+      "easy_name": "Ankle that keeps rolling",
+      "products": [
+        "Walker Boot",
+        "Walker Boot Air",
+        "Walker Boot Air- Short"
+      ]
+    }
+  ],
+  "Knee": [
+    {
+      "medical_name": "Compression And Warmth",
+      "easy_name": "Gentle support and warmth",
+      "products": [
+        "Knee Cap (Pair)",
+        "Knee Cap Open Patella",
+        "Knee Cap with Patellar Ring (Single)",
+        "Knee Cap Comfeel (Pair)",
+        "Knee Support Urbane"
+      ]
+    },
+    {
+      "medical_name": "Management In Arthritis",
+      "easy_name": "Knee arthritis",
+      "products": [
+        "Knee Cap (Pair)",
+        "Knee Cap Open Patella",
+        "Knee Cap (with Rigid Hinge)",
+        "Knee Cap with Patellar Ring (Single)",
+        "Patellar Support",
+        "Knee Cap Comfeel (Pair)",
+        "Knee Support Urbane"
+      ]
+    },
+    {
+      "medical_name": "Patellofemoral Syndrome.",
+      "easy_name": "Kneecap pain (front of knee)",
+      "products": [
+        "Knee Cap with Patellar Ring (Single)",
+        "Patellar Support",
+        "Knee Support Urbane",
+        "Patellar Support Pro",
+        "Dual Patellar Support"
+      ]
+    },
+    {
+      "medical_name": "Patellar Chondromalacia, Aging.",
+      "easy_name": "Worn kneecap cartilage",
+      "products": [
+        "Knee Cap Open Patella",
+        "Knee Cap with Patellar Ring (Single)",
+        "Patellar Support",
+        "Knee Support Urbane",
+        "Patellar Support Pro",
+        "Dual Patellar Support"
+      ]
+    },
+    {
+      "medical_name": "Patellar Subluxation Or Dislocation",
+      "easy_name": "Kneecap slips out of place",
+      "products": [
+        "Knee Cap Open Patella",
+        "Knee Cap with Patellar Ring (Single)",
+        "Patellar Support",
+        "Knee Support Urbane",
+        "Patellar Support Pro",
+        "Dual Patellar Support"
+      ]
+    },
+    {
+      "medical_name": "Tendon Or Ligament Injury",
+      "easy_name": "Knee ligament/tendon injury",
+      "products": [
+        "Knee Cap Open Patella",
+        "Knee Cap (with Rigid Hinge)",
+        "Knee Cap with Patellar Ring (Single)",
+        "Elastic Knee Support",
+        "Functional Knee Support",
+        "Knee Immobiliser",
+        "Knee Support Urbane",
+        "R.O.M. Knee Brace 22\"/56cm"
+      ]
+    },
+    {
+      "medical_name": "Knee Immobilization Following Injury",
+      "easy_name": "Keep knee still after injury",
+      "products": [
+        "Knee Immobiliser",
+        "R.O.M. Knee Brace 22\"/56cm"
+      ]
+    },
+    {
+      "medical_name": "Early Cast Removal",
+      "easy_name": "After early cast removal",
+      "products": [
+        "Knee Immobiliser",
+        "R.O.M. Knee Brace 22\"/56cm"
+      ]
+    },
+    {
+      "medical_name": "Post-Op Treatment And Rehabilitation",
+      "easy_name": "Recovering after knee surgery",
+      "products": [
+        "Knee Cap Open Patella",
+        "Knee Cap (with Rigid Hinge)",
+        "Elastic Knee Support",
+        "Functional Knee Support",
+        "Knee Immobiliser",
+        "R.O.M. Knee Brace 22\"/56cm"
+      ]
+    },
+    {
+      "medical_name": "Motion Control Problems Of The Knee",
+      "easy_name": "Unstable knee / control issues",
+      "products": [
+        "Knee Cap Open Patella",
+        "Knee Cap (with Rigid Hinge)",
+        "Elastic Knee Support",
+        "Functional Knee Support",
+        "R.O.M. Knee Brace 22\"/56cm"
+      ]
+    },
+    {
+      "medical_name": "Extrication And Ambulation",
+      "easy_name": "Support to move an injured knee",
+      "products": [
+        "Knee Immobiliser"
+      ]
+    },
+    {
+      "medical_name": "Controlled Range Of Motion.",
+      "easy_name": "Controlled bending after surgery",
+      "products": [
+        "R.O.M. Knee Brace 22\"/56cm"
+      ]
+    },
+    {
+      "medical_name": "Hamstring pull",
+      "easy_name": "Pulled hamstring (back of thigh)",
+      "products": [
+        "Thigh Support"
+      ]
+    },
+    {
+      "medical_name": "Quadriceps pull",
+      "easy_name": "Pulled thigh muscle (front)",
+      "products": [
+        "Thigh Support"
+      ]
+    }
+  ],
+  "Wrist / Hand / Elbow": [
+    {
+      "medical_name": "Rheumatoid disease / Arthritis of the wrist",
+      "easy_name": "Wrist arthritis",
+      "products": [
+        "Elastic Wrist Splint Right/Left",
+        "Wrist & Forearm Splint Right/Left",
+        "Wrist Brace with Thumb",
+        "Hand Resting Splint Right/Left",
+        "Wrist Support Urbane"
+      ]
+    },
+    {
+      "medical_name": "Arthritis of the Hand",
+      "easy_name": "Hand arthritis",
+      "products": [
+        "Hand Resting Splint Right/Left"
+      ]
+    },
+    {
+      "medical_name": "Arthritis of the Thumb",
+      "easy_name": "Thumb arthritis",
+      "products": [
+        "Wrist Splint with Thumb"
+      ]
+    },
+    {
+      "medical_name": "Arthritis of the Elbow",
+      "easy_name": "Elbow arthritis",
+      "products": [
+        "ROM Elbow Brace Left/Right"
+      ]
+    },
+    {
+      "medical_name": "CMC Synovitis",
+      "easy_name": "Painful thumb-base joint",
+      "products": [
+        "Elastic Wrist Splint Right/Left"
+      ]
+    },
+    {
+      "medical_name": "Volkaman's ischemia",
+      "easy_name": "Forearm muscle damage (blood flow)",
+      "products": [
+        "Hand Resting Splint Right/Left",
+        "Forearm Splint",
+        "Wrist Splint (Ambidextrous)"
+      ]
+    },
+    {
+      "medical_name": "Wrist tendonitis",
+      "easy_name": "Wrist tendon pain / overuse",
+      "products": [
+        "Elastic Wrist Splint Right/Left",
+        "Wrist & Forearm Splint Right/Left",
+        "Wrist Brace with Double Lock",
+        "Wrist Brace with Thumb",
+        "Wrist Splint (Ambidextrous)",
+        "Wrist Support Urbane"
+      ]
+    },
+    {
+      "medical_name": "Elbow tendonitis",
+      "easy_name": "Elbow tendon pain / overuse",
+      "products": [
+        "Elbow Support",
+        "ROM Elbow Brace Left/Right",
+        "Elbow Support Urbane"
+      ]
+    },
+    {
+      "medical_name": "De Quervains's tenosynovitis",
+      "easy_name": "Painful thumb-side wrist tendons",
+      "products": [
+        "Elastic Wrist Splint Right/Left",
+        "Wrist Brace with Thumb",
+        "Hand Resting Splint Right/Left",
+        "Wrist Splint with Thumb",
+        "Wrist brace with thumb neoprene",
+        "Wrist Support Urbane"
+      ]
+    },
+    {
+      "medical_name": "Bursitis",
+      "easy_name": "Inflamed joint cushion",
+      "products": [
+        "Wrist & Forearm Splint Right/Left",
+        "Wrist Brace with Double Lock",
+        "Wrist Brace with Thumb",
+        "Wrist Splint (Ambidextrous)",
+        "Wrist Splint with Thumb",
+        "Wrist brace with thumb neoprene",
+        "Wrist wrap neoprene"
+      ]
+    },
+    {
+      "medical_name": "keinbock's disease",
+      "easy_name": "Wrist bone condition",
+      "products": [
+        "Elastic Wrist Splint Right/Left",
+        "Wrist & Forearm Splint Right/Left",
+        "Wrist Splint (Ambidextrous)"
+      ]
+    },
+    {
+      "medical_name": "Medial Epicondylitis (golfer's elbow)",
+      "easy_name": "Golfer's elbow (inner elbow pain)",
+      "products": [
+        "Tennis Elbow Support",
+        "Elbow Support",
+        "Forearm Splint",
+        "Elbow Support Urbane"
+      ]
+    },
+    {
+      "medical_name": "Epicondylitis (tennis elbow)",
+      "easy_name": "Tennis elbow (outer elbow pain)",
+      "products": [
+        "Tennis Elbow Support",
+        "Elbow Support",
+        "Elbow Support Urbane"
+      ]
+    },
+    {
+      "medical_name": "Hypertonia of hand (increased muscle tone)",
+      "easy_name": "Tight/stiff hand muscles",
+      "products": [
+        "Hand Resting Splint Right/Left"
+      ]
+    },
+    {
+      "medical_name": "Burn Treatment, contracture prevention",
+      "easy_name": "Support during burn recovery",
+      "products": [
+        "Wrist Brace with Thumb",
+        "Hand Resting Splint Right/Left",
+        "ROM Elbow Brace Left/Right",
+        "Wrist brace with thumb neoprene",
+        "Wrist wrap neoprene"
+      ]
+    },
+    {
+      "medical_name": "Carpal tunnel syndrome",
+      "easy_name": "Wrist nerve pain / tingling",
+      "products": [
+        "Elastic Wrist Splint Right/Left",
+        "Wrist Brace with Double Lock",
+        "Wrist Brace with Thumb",
+        "Hand Resting Splint Right/Left",
+        "Forearm Splint"
+      ]
+    },
+    {
+      "medical_name": "Fracture management",
+      "easy_name": "After a wrist/hand fracture",
+      "products": [
+        "Wrist & Forearm Splint Right/Left",
+        "Wrist Brace with Thumb",
+        "Forearm Splint"
+      ]
+    },
+    {
+      "medical_name": "Post operative immobilization of wrist",
+      "easy_name": "Keep wrist still after surgery",
+      "products": [
+        "Elastic Wrist Splint Right/Left",
+        "Wrist & Forearm Splint Right/Left",
+        "Wrist Brace with Thumb",
+        "Hand Resting Splint Right/Left",
+        "Forearm Splint",
+        "Wrist Splint (Ambidextrous)",
+        "Wrist Splint with Thumb",
+        "ROM Elbow Brace Left/Right",
+        "Wrist brace with thumb neoprene",
+        "Wrist wrap neoprene"
+      ]
+    }
+  ],
+  "Mobility / Walking aids": [
+    {
+      "medical_name": "Amputation",
+      "easy_name": "After limb amputation",
+      "products": [
+        "Elbow Crutch Adjustable",
+        "Axillary Crutch (Pair)",
+        "Skipper Axila Crutch"
+      ]
+    },
+    {
+      "medical_name": "Bariatric Care",
+      "easy_name": "Support for heavier patients",
+      "products": [
+        "Commode chair with wheels",
+        "Commode Chair Ergo",
+        "Commode Chair"
+      ]
+    },
+    {
+      "medical_name": "Fractured legs.",
+      "easy_name": "Broken leg support",
+      "products": [
+        "Walker Invalid's Reciprocating - All Pods - AL",
+        "Walker Invalid's Front Wheels - AL"
+      ]
+    },
+    {
+      "medical_name": "Geriatric Population",
+      "easy_name": "Elderly mobility support",
+      "products": [
+        "Walking Stick (Soft Top Handle)",
+        "Walking Stick (L type)",
+        "Walking Stick Quadripod",
+        "Commode chair with wheels",
+        "Commode Chair Ergo",
+        "Commode Chair",
+        "Walkig stick with seat"
+      ]
+    },
+    {
+      "medical_name": "Hemiplegia / Foot drop",
+      "easy_name": "Weakness/paralysis on one side",
+      "products": [
+        "Elbow Crutch Adjustable",
+        "Axillary Crutch (Pair)",
+        "Walker Invalid's Front Wheels - HD",
+        "Walker Invalid's - All Pods - HD",
+        "Quadra Stick",
+        "Walker Foldable Ergo",
+        "Skipper Axila Crutch"
+      ]
+    },
+    {
+      "medical_name": "Knee and hip arthritis",
+      "easy_name": "Knee and hip arthritis",
+      "products": [
+        "Elbow Crutch Adjustable",
+        "Walker Invalid's Reciprocating - All Pods - AL",
+        "Axillary Crutch (Pair)",
+        "Walker Invalid's Front Wheels - AL",
+        "Walker Invalid's Front Wheels - HD",
+        "Walker Invalid's - All Pods - HD",
+        "Quadra Stick",
+        "Walker Foldable Ergo",
+        "Skipper Axila Crutch"
+      ]
+    },
+    {
+      "medical_name": "Hip replacement",
+      "easy_name": "After hip replacement",
+      "products": [
+        "Walking Stick (Soft Top Handle)",
+        "Walking Stick (L type)",
+        "Walking Stick Quadripod",
+        "Walking Stick Tripod"
+      ]
+    },
+    {
+      "medical_name": "Leg length discrepancy",
+      "easy_name": "One leg shorter than the other",
+      "products": [
+        "Walkig stick with seat"
+      ]
+    },
+    {
+      "medical_name": "Lower Limb fractures and injuries",
+      "easy_name": "Leg fractures and injuries",
+      "products": [
+        "Walking Stick (Soft Top Handle)",
+        "Walking Stick Quadripod",
+        "Elbow Crutch Adjustable",
+        "Axillary Crutch (Pair)",
+        "Walker Invalid's Front Wheels - HD",
+        "Walking Stick Tripod",
+        "Walker Invalid's - All Pods - HD",
+        "Quadra Stick",
+        "Walker Foldable Ergo",
+        "Skipper Axila Crutch"
+      ]
+    },
+    {
+      "medical_name": "Lower Limb post fracture rehabilitation",
+      "easy_name": "Leg recovery after fracture",
+      "products": [
+        "Walking Stick (L type)",
+        "Walkig stick with seat"
+      ]
+    },
+    {
+      "medical_name": "Lower Limb, Foot or ankle injury",
+      "easy_name": "Leg, foot or ankle injury",
+      "products": [
+        "Walking Stick (Soft Top Handle)",
+        "Walking Stick (L type)",
+        "Walking Stick Quadripod",
+        "Commode chair with wheels",
+        "Walking Stick Tripod",
+        "Commode Chair Ergo",
+        "Commode Chair",
+        "Walkig stick with seat"
+      ]
+    },
+    {
+      "medical_name": "Multiple Sclerosis, Parkinson\u2019s or Hemiplegia.",
+      "easy_name": "Nerve conditions affecting walking",
+      "products": [
+        "Walker Invalid's Reciprocating - All Pods - AL",
+        "Walker Invalid's Front Wheels - AL",
+        "Quadra Stick"
+      ]
+    },
+    {
+      "medical_name": "Muscular sprains and strains of the area",
+      "easy_name": "Muscle sprains and strains",
+      "products": [
+        "Walkig stick with seat"
+      ]
+    },
+    {
+      "medical_name": "Neurological Conditions / Weakness",
+      "easy_name": "Nerve weakness",
+      "products": [
+        "Walking Stick (Soft Top Handle)",
+        "Walking Stick (L type)",
+        "Walking Stick Quadripod",
+        "Elbow Crutch Adjustable",
+        "Axillary Crutch (Pair)",
+        "Walker Invalid's Front Wheels - HD",
+        "Walker Invalid's - All Pods - HD",
+        "Quadra Stick",
+        "Walker Foldable Ergo",
+        "Skipper Axila Crutch"
+      ]
+    },
+    {
+      "medical_name": "Osteoporosis",
+      "easy_name": "Weak/brittle bones",
+      "products": [
+        "Elbow Crutch Adjustable",
+        "Walker Invalid's Reciprocating - All Pods - AL",
+        "Axillary Crutch (Pair)",
+        "Walker Invalid's Front Wheels - AL",
+        "Walker Invalid's Front Wheels - HD",
+        "Walker Invalid's - All Pods - HD",
+        "Quadra Stick",
+        "Walker Foldable Ergo"
+      ]
+    },
+    {
+      "medical_name": "Pelvic fracture.",
+      "easy_name": "Broken pelvis",
+      "products": [
+        "Commode chair with wheels",
+        "Commode Chair Ergo",
+        "Commode Chair"
+      ]
+    },
+    {
+      "medical_name": "Post-surgical recovery.",
+      "easy_name": "General recovery after surgery",
+      "products": [
+        "Walking Stick (Soft Top Handle)",
+        "Walking Stick (L type)",
+        "Walking Stick Quadripod",
+        "Elbow Crutch Adjustable",
+        "Commode chair with wheels",
+        "Walker Invalid's Reciprocating - All Pods - AL",
+        "Axillary Crutch (Pair)",
+        "Walker Invalid's Front Wheels - AL",
+        "Walker Invalid's Front Wheels - HD",
+        "Walking Stick Tripod",
+        "Walker Invalid's - All Pods - HD",
+        "Commode Chair Ergo",
+        "Commode Chair",
+        "Quadra Stick",
+        "Walker Foldable Ergo",
+        "Skipper Axila Crutch"
+      ]
+    },
+    {
+      "medical_name": "Osteoarthritis condition",
+      "easy_name": "Joint wear-and-tear arthritis",
+      "products": [
+        "Walking Stick (Soft Top Handle)",
+        "Walking Stick (L type)",
+        "Walking Stick Quadripod",
+        "Commode chair with wheels",
+        "Walking Stick Tripod",
+        "Commode Chair Ergo",
+        "Commode Chair",
+        "Walkig stick with seat"
+      ]
+    },
+    {
+      "medical_name": "Postural sway due to weakness.",
+      "easy_name": "Unsteady balance from weakness",
+      "products": [
+        "Walking Stick (Soft Top Handle)",
+        "Walking Stick (L type)",
+        "Walking Stick Quadripod",
+        "Commode chair with wheels",
+        "Walker Invalid's Reciprocating - All Pods - AL",
+        "Axillary Crutch (Pair)",
+        "Walker Invalid's Front Wheels - AL",
+        "Walker Invalid's Front Wheels - HD",
+        "Walking Stick Tripod",
+        "Walker Invalid's - All Pods - HD",
+        "Commode Chair Ergo",
+        "Commode Chair",
+        "Quadra Stick",
+        "Walker Foldable Ergo",
+        "Skipper Axila Crutch",
+        "Walkig stick with seat"
+      ]
+    },
+    {
+      "medical_name": "Rehabilitation Care",
+      "easy_name": "General rehab support",
+      "products": [
+        "Commode chair with wheels",
+        "Commode Chair Ergo",
+        "Commode Chair"
+      ]
+    },
+    {
+      "medical_name": "Remote toilet access",
+      "easy_name": "Toilet mobility aid",
+      "products": [
+        "Commode chair with wheels",
+        "Commode Chair Ergo",
+        "Commode Chair"
+      ]
+    },
+    {
+      "medical_name": "Heart disease - breathing restriction, reduced exercise tolerance",
+      "easy_name": "Breathing support (heart condition)",
+      "products": [
+        "Walker Invalid's Reciprocating - All Pods - AL"
+      ]
+    },
+    {
+      "medical_name": "General Weakness",
+      "easy_name": "General weakness",
+      "products": [
+        "Quadra Stick"
+      ]
+    },
+    {
+      "medical_name": "Old age",
+      "easy_name": "General old-age support",
+      "products": [
+        "Quadra Stick"
+      ]
+    }
+  ]
+}
