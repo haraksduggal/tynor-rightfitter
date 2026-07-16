@@ -4,7 +4,7 @@ from collections import defaultdict
 from PIL import Image
 import io
 
-st.set_page_config(page_title="Find the Right Fit — Tynor", page_icon="🦴", layout="centered")
+st.set_page_config(page_title="Find the Right Fit — Tynor", page_icon="", layout="centered")
 
 # ── Custom CSS ────────────────────────────────────────────────────────────────
 st.markdown("""
