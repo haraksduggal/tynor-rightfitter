@@ -234,6 +234,9 @@ st.markdown("""
         border: 1px solid #f0e0f5 !important;
     }
     [data-testid="stExpander"] { border-radius: 12px !important; }
+    /* Fix _arrowWright overlap in light mode too */
+    [data-testid="stExpander"] summary { display: flex; align-items: center; gap: 4px; }
+    [data-testid="stExpander"] summary > div:first-child { flex-shrink: 0; }
 
     /* Warning / Error / Success boxes — softer, rounder */
     .stAlert {
@@ -441,6 +444,12 @@ def show_header():
     .stTextInput > div > div > input { background: #2a1332 !important; border-color: #4a2d5a !important; color: #f0e6f5 !important; }
     [data-testid="stVerticalBlockBorderWrapper"] { background: #1e0f25 !important; border-color: #4a2d5a !important; box-shadow: 0 6px 20px rgba(0,0,0,0.4) !important; }
     .streamlit-expanderHeader, [data-testid="stExpander"] summary { background: #2a1332 !important; border-color: #4a2d5a !important; color: #e8d5f0 !important; }
+    /* Fix arrow overlap in expanders */
+    [data-testid="stExpander"] summary svg { display: none !important; }
+    [data-testid="stExpander"] summary::before { content: "▼ "; font-size: 0.8rem; }
+    [data-testid="stExpander"][open] summary::before { content: "▲ "; font-size: 0.8rem; }
+    [data-testid="stExpander"] summary p,
+    [data-testid="stExpander"] summary span { color: #e8d5f0 !important; padding-left: 0 !important; }
     hr { border-color: #3a1f45 !important; }
     section[data-testid="stVerticalBlock"] .stButton > button:not([kind="primary"]) { background: #2a1332 !important; border-color: #4a2d5a !important; color: #e8d5f0 !important; }
     section[data-testid="stVerticalBlock"] .stButton > button:not([kind="primary"]):hover { background: #3a1f45 !important; border-color: #9B3DAE !important; color: #c388d4 !important; }
