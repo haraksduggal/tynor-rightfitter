@@ -17,6 +17,12 @@ st.markdown("""
         font-family: 'Poppins', sans-serif !important;
     }
 
+    /* Bold button text */
+    .stButton button { font-weight: 700 !important; font-family: 'Poppins', sans-serif !important; }
+    .stButton button[kind="primary"] { font-weight: 800 !important; }
+    .stButton button p { font-weight: 700 !important; }
+    .stButton button[kind="primary"] p { font-weight: 800 !important; }
+
     /* Global text visibility fix — light mode */
     .stMarkdown p, .stMarkdown li, .stMarkdown span,
     [data-testid="stMarkdownContainer"] p,
