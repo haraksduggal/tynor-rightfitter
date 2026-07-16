@@ -398,7 +398,7 @@ def show_header():
         # Logo — invert in dark mode
         filter_style = "invert(1) brightness(2)" if st.session_state.dark_mode else "none"
         st.markdown(
-            f'<img src="data:image/png;base64,{TYNOR_LOGO_B64}" style="height:56px; margin-top:4px; filter:{filter_style};">',
+            f'<img src="data:image/png;base64,{TYNOR_LOGO_B64}" style="max-height:48px; width:auto; max-width:130px; margin-top:4px; object-fit:contain; filter:{filter_style};">',
             unsafe_allow_html=True
         )
     with col2:
@@ -450,7 +450,13 @@ def show_header():
     [data-testid="stVerticalBlockBorderWrapper"] p,
     [data-testid="stVerticalBlockBorderWrapper"] span { color: #e8d5f0 !important; }
     .stButton > button { color: #d4b8e0 !important; }
-    .stButton > button[kind="primary"] { color: white !important; }
+    .stButton > button[kind="primary"] { 
+        color: white !important;
+        background: linear-gradient(135deg, #b44cc7 0%, #7B2D8B 60%, #5a1f6e 100%) !important;
+        border: none !important;
+        opacity: 1 !important;
+        visibility: visible !important;
+    }
     .step-dot { background: #3a1f45 !important; }
     .step-dot.done { background: linear-gradient(135deg, #9B3DAE, #6a2578) !important; }
     .step-dot.current { background: #9B3DAE !important; }
@@ -1324,9 +1330,10 @@ def show_product_card(p, region=None):
             with c2:
                 st.markdown(f"**{stars(p['rating'])}**")
 
-            mat_kws = ['neoprene','elastic','polypropylene','aluminium','cotton','gel','polyester','foam','knit']
-            material = next((m.title() for m in mat_kws if m in p['short_desc'].lower()), p['sub_cat'])
-            st.caption(f"🧵 Material: {material}")
+            mat_kws = ['neoprene','elastic','polypropylene','aluminium','cotton','gel','polyester','foam','knit','lycra','spandex','silicone','rubber','steel']
+            material = next((m.title() for m in mat_kws if m in p['short_desc'].lower()), None)
+            if material:
+                st.caption(f"🧵 Material: {material}")
 
             attrs = p.get('attributes',[])
             if attrs:
@@ -1511,9 +1518,11 @@ if step == "result":
     name = st.session_state.get("contact_name","")
     st.subheader(f"Hey {name.split()[0]}, here's what we recommend 👇" if name else "✅ Recommended for you")
 
+    st.markdown('<div style="max-height:600px;overflow-y:auto;padding-right:6px;scrollbar-width:thin;scrollbar-color:#c388d4 #f9f0fc;">', unsafe_allow_html=True)
     for p in results:
         show_product_card(p, region)
         st.divider()
+    st.markdown('</div>', unsafe_allow_html=True)
 
     with st.expander("Frequently Asked Questions about Tynor Cure"):
         for q, a in TYNOR_GENERAL_FAQS:
@@ -1612,7 +1621,7 @@ else:
             # ── Step 2: Gender ───────────────────────────────────────────────
             elif step == 2:
                 st.subheader("Gender")
-                gender = st.radio("", ["Female","Male","Prefer not to say"], index=None)
+                gender = st.radio("", ["Female","Male","Unisex"], index=None)
                 if nav(condition=gender is not None):
                     st.session_state.gender = gender; push(3); st.rerun()
 
