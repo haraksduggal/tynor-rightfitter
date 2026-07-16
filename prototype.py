@@ -254,7 +254,7 @@ st.markdown("""
     .stSlider [data-baseweb="slider"] > div > div { background: #9B3DAE !important; }
 
     /* Page padding */
-    .block-container { padding-top: 0.5rem !important; padding-bottom: 3rem !important; max-width: 780px !important; }
+    .block-container { padding-top: 2.5rem !important; padding-bottom: 3rem !important; max-width: 780px !important; }
 
     /* Subtle fade-in animation */
     .main .block-container { animation: fadeIn 0.25s ease; }
@@ -1605,6 +1605,7 @@ else:
                 with cols[col_idx]:
                     if st.button(region, use_container_width=True, key=f"rbtn_{region}"):
                         st.session_state.region = region; push(1); st.rerun()
+            st.markdown("<div style='margin-bottom:8px;'></div>", unsafe_allow_html=True)
         st.markdown('</div>', unsafe_allow_html=True)
 
 
@@ -1830,4 +1831,3 @@ else:
                     push("contact"); st.rerun()
 
             st.markdown("</div>", unsafe_allow_html=True)
-            
