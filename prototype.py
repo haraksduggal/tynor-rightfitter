@@ -95,7 +95,7 @@ st.markdown("""
     .stButton > button[kind="primary"] {
         background: linear-gradient(135deg, #dda0e8 0%, #c070d0 60%, #a854bc 100%) !important;
         border: none !important; color: white !important;
-        border-radius: 16px !important; font-weight: 700 !important;
+        border-radius: 16px !important; font-weight: 800 !important; font-family: 'Poppins', sans-serif !important;
         padding: 0.7rem 1.6rem !important; font-size: 0.97rem !important;
         letter-spacing: 0.2px;
         box-shadow: 0 4px 18px rgba(123,45,139,0.35), inset 0 1px 0 rgba(255,255,255,0.15) !important;
@@ -117,7 +117,8 @@ st.markdown("""
         border: 1.5px solid #e8d8ee !important;
         background: white !important;
         color: #5a3d63 !important;
-        font-weight: 500 !important;
+        font-weight: 700 !important;
+        font-family: 'Poppins', sans-serif !important;
         padding: 0.65rem 1.2rem !important;
         transition: all 0.18s ease !important;
     }
