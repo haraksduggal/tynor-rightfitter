@@ -501,7 +501,11 @@ SIZE_CHART_IMAGES = {
 def show_size_chart(region):
     url = SIZE_CHART_IMAGES.get(region)
     if not url: return
-    with st.expander("How to measure & size guide"):
+    # Size chart — no expander
+    if "show_size_chart" not in st.session_state: st.session_state["show_size_chart"] = False
+    if st.button("Hide size guide" if st.session_state["show_size_chart"] else "How to measure & size guide", use_container_width=True, key=f"size_chart_{region}"):
+        st.session_state["show_size_chart"] = not st.session_state["show_size_chart"]
+    if st.session_state["show_size_chart"]:
         if "your-url.com" in url:
             st.caption("Size chart image coming soon — replace the URL in SIZE_CHART_IMAGES at the top of this file.")
         else:
@@ -1219,18 +1223,26 @@ def validate_with_ai(session_data):
 
     user_summary = "\n".join(summary)
 
-    system_prompt = """You are a clinical support assistant for Tynor Orthotics helping customers find the right brace.
+    system_prompt = """You are a clinical validation assistant for Tynor Orthotics.
 
-Check if the customer answers seem medically or logically inconsistent. Examples:
-- Age under 14 but pregnancy-related concern
-- Age under 14 but heavy gym or weightlifting activity
-- Severe pain but gentle support selected
-- Pregnancy concern for a male user
-- Age 60+ selecting maximum intensity sport
+Your ONLY job is to check if the answers below contain any of these EXACT inconsistencies and flag them:
 
-If inconsistent, respond with a short friendly message starting with "Just checking —" (max 2 sentences).
-If everything looks fine, respond with exactly: OK
-Do not explain. Only output OK or the short message."""
+MUST FLAG (always, no exceptions):
+1. Gender is Male AND any of these words appear in Problem or Location: pregnancy, post-delivery, maternity, pregnant, delivery, c-section, womb
+2. Gender is Male AND Age is Under 14 AND problem involves pregnancy
+3. Age is Under 14 AND Activity or Support involves: gym, weightlifting, maximum, heavy lifting
+4. Severity is Severe AND Support level is Gentle
+5. Age is Under 14 AND problem involves alcohol, smoking, or adult conditions
+
+If ANY of the above are true, respond with: "Just checking — [brief friendly 1-sentence note about the inconsistency]. Could you confirm?"
+
+If NONE of the above are true, respond with exactly the single word: OK
+
+Rules:
+- Be case-insensitive when checking
+- Do NOT flag things not in the list above
+- Do NOT add any explanation or reasoning
+- Output ONLY "OK" or the short "Just checking —" message"""
 
     try:
         GROQ_KEY = st.secrets.get("GROQ_API_KEY", "")
@@ -1360,7 +1372,11 @@ def show_product_card(p, region=None):
                 for sent in re.split(r'\. ', p['short_desc'])[:3]:
                     if sent.strip(): st.markdown(f"- {sent.strip().rstrip('.')}")
 
-        with st.expander("Why we recommended this"):
+        why_key = f"why_{p['product_id']}"
+        if why_key not in st.session_state: st.session_state[why_key] = False
+        if st.button("Hide recommendation reason" if st.session_state[why_key] else "Why we recommended this", use_container_width=True, key=f"whybtn_{p['product_id']}"):
+            st.session_state[why_key] = not st.session_state[why_key]
+        if st.session_state[why_key]:
             ss = st.session_state
             intent  = ss.get('intent','')
             sub_loc = ss.get('sub_location','')
@@ -1398,7 +1414,11 @@ def show_product_card(p, region=None):
                 if st.button(f"⚡ Buy Now — ₹{chosen_price}", key=f"buy_{p['product_id']}", use_container_width=True, type="primary"):
                     st.success("Redirecting to checkout… (placeholder)")
 
-        with st.expander("FAQs"):
+        faq_card_key = f"faqcard_{p['product_id']}"
+        if faq_card_key not in st.session_state: st.session_state[faq_card_key] = False
+        if st.button("Hide FAQs" if st.session_state[faq_card_key] else "FAQs", use_container_width=True, key=f"faqbtn_{p['product_id']}"):
+            st.session_state[faq_card_key] = not st.session_state[faq_card_key]
+        if st.session_state[faq_card_key]:
             for q,a in faq_for_product(p):
                 st.markdown(f"**{q}**"); st.write(a)
 
@@ -1538,16 +1558,30 @@ if step == "result":
         st.divider()
     st.markdown('</div>', unsafe_allow_html=True)
 
-    with st.expander("Frequently Asked Questions about Tynor Cure"):
+    # FAQ section — no expander, clean accordion
+    faq_key = "faq_open"
+    if faq_key not in st.session_state: st.session_state[faq_key] = False
+    faq_label = "Hide FAQs" if st.session_state[faq_key] else "Frequently Asked Questions"
+    if st.button(faq_label, use_container_width=True, key="faq_btn"):
+        st.session_state[faq_key] = not st.session_state[faq_key]
+    if st.session_state[faq_key]:
         for q, a in TYNOR_GENERAL_FAQS:
             st.markdown(f"**{q}**"); st.write(a); st.divider()
 
-    with st.expander("Share your feedback"):
+    fb_key = "fb_open"
+    if fb_key not in st.session_state: st.session_state[fb_key] = False
+    if st.button("Hide feedback" if st.session_state[fb_key] else "Share your feedback", use_container_width=True, key="fb_btn"):
+        st.session_state[fb_key] = not st.session_state[fb_key]
+    if st.session_state[fb_key]:
         st.slider("How helpful was this recommendation?", 1, 5, 4)
         st.text_area("Anything to add?", placeholder="Your feedback helps us improve")
-        if st.button("Submit feedback"): st.success("Thank you! 🙏")
+        if st.button("Submit feedback", key="submit_fb"): st.success("Thank you!")
 
-    with st.expander("Customer Support"):
+    sup_key = "sup_open"
+    if sup_key not in st.session_state: st.session_state[sup_key] = False
+    if st.button("Hide support info" if st.session_state[sup_key] else "Customer Support", use_container_width=True, key="sup_btn"):
+        st.session_state[sup_key] = not st.session_state[sup_key]
+    if st.session_state[sup_key]:
         st.markdown("📞 1800-1212-656 · WhatsApp +91 8288853995 · Mon–Sat 9am–6pm\n\n📧 support@tynor.in\n\n🌐 www.tynorstore.com")
 
     st.caption("⚠️ For general guidance only. Consult a healthcare professional for diagnosis and treatment.")
@@ -1722,7 +1756,13 @@ else:
                     st.subheader("What is the problem?")
                     easy_list = [pb["easy_name"] for pb in probs] if probs else [
                         "General pain / discomfort","Post-injury support","Post-surgery recovery","Chronic condition"]
-                    problem = st.radio("", easy_list + ["Other — describe your issue","Not sure"], index=None)
+                    _gender = st.session_state.get("gender", "")
+                    _elist = easy_list.copy()
+                    if _gender == "Male":
+                        _elist = [x for x in _elist if not any(w in x.lower() for w in ["pregnancy","post-delivery","maternity","pregnant"])]
+                    elif _gender == "Female":
+                        _elist = [x for x in _elist if not any(w in x.lower() for w in ["scrotal","prostate"])]
+                    problem = st.radio("", _elist + ["Other — describe your issue","Not sure"], index=None)
                     other_text = ""
                     if problem == "Other — describe your issue":
                         other_text = st.text_input("Describe your problem", placeholder="e.g. knee clicks when walking...")
@@ -1740,8 +1780,14 @@ else:
             elif step == "sub_location":
                 region = st.session_state.region
                 sub_q  = SUB_LOCATION_QUESTIONS[region]
+                _g = st.session_state.get("gender", "")
+                _opts = sub_q["options"].copy()
+                if _g == "Male":
+                    _opts = [o for o in _opts if not any(w in o.lower() for w in ["post-delivery","pregnancy","maternity"])]
+                elif _g == "Female":
+                    _opts = [o for o in _opts if not any(w in o.lower() for w in ["scrotal"])]
                 st.subheader(sub_q["question"])
-                answer = st.radio("", sub_q["options"], index=None)
+                answer = st.radio("", _opts, index=None)
                 if nav(condition=answer is not None):
                     st.session_state.sub_location = answer
                     if region == "Abdominal":
