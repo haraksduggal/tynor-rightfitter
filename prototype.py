@@ -93,7 +93,7 @@ st.markdown("""
 
     /* Primary buttons */
     .stButton > button[kind="primary"] {
-        background: linear-gradient(135deg, #b44cc7 0%, #7B2D8B 60%, #5a1f6e 100%) !important;
+        background: linear-gradient(135deg, #dda0e8 0%, #c070d0 60%, #a854bc 100%) !important;
         border: none !important; color: white !important;
         border-radius: 16px !important; font-weight: 700 !important;
         padding: 0.7rem 1.6rem !important; font-size: 0.97rem !important;
@@ -104,7 +104,7 @@ st.markdown("""
     .stButton > button[kind="primary"]:hover {
         transform: translateY(-2px) scale(1.01);
         box-shadow: 0 8px 24px rgba(123,45,139,0.45), inset 0 1px 0 rgba(255,255,255,0.2) !important;
-        background: linear-gradient(135deg, #c45fd4 0%, #8B3DAE 60%, #6a2578 100%) !important;
+        background: linear-gradient(135deg, #e8b5f0 0%, #d080dc 60%, #b866c8 100%) !important;
     }
     .stButton > button[kind="primary"]:active {
         transform: scale(0.97) translateY(0) !important;
@@ -466,7 +466,7 @@ def show_header():
     .stButton > button { color: #d4b8e0 !important; }
     .stButton > button[kind="primary"] { 
         color: white !important;
-        background: linear-gradient(135deg, #b44cc7 0%, #7B2D8B 60%, #5a1f6e 100%) !important;
+        background: linear-gradient(135deg, #dda0e8 0%, #c070d0 60%, #a854bc 100%) !important;
         border: none !important;
         opacity: 1 !important;
         visibility: visible !important;
