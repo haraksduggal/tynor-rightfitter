@@ -398,9 +398,8 @@ def show_header():
 
     col1, col2, col3 = st.columns([1, 4, 1])
     with col1:
-        filter_style = "invert(1) brightness(2)" if st.session_state.dark_mode else "none"
         st.markdown(
-            f'<div style="padding-top:8px;"><img src="data:image/png;base64,{TYNOR_LOGO_B64}" style="max-height:44px; width:auto; max-width:120px; object-fit:contain; filter:{filter_style};"></div>',
+            f'<div style="padding-top:8px;background:white;border-radius:8px;padding:6px 10px;display:inline-block;"><img src="data:image/png;base64,{TYNOR_LOGO_B64}" style="max-height:40px; width:auto; max-width:110px; object-fit:contain;"></div>',
             unsafe_allow_html=True
         )
     with col2:
@@ -422,6 +421,9 @@ def show_header():
     .stApp::before { opacity: 0.15 !important; }
     .stApp::after { opacity: 0.15 !important; }
     h1,h2,h3,h4,h5,h6,p,span,label { color: #f0e6f5 !important; }
+    /* Force inline hardcoded dark text to light in dark mode */
+    [style*="color:#2b1830"], [style*="color: #2b1830"] { color: #f0e6f5 !important; }
+    [style*="color:#333"], [style*="color: #333"] { color: #e8d5f0 !important; }
     .stCaption, [data-testid="stCaptionContainer"] { color: #b89ec0 !important; }
     .step-summary { background: #2a1332 !important; border-color: #5a3d6e !important; color: #d4b8e0 !important; }
     .stRadio > div > label { background: #2a1332 !important; border-color: #4a2d5a !important; color: #e8d5f0 !important; }
@@ -1584,10 +1586,11 @@ else:
     # ── Full-width body map + scrollable right panel ──────────────────────────
 
     if step == 0:
-        st.markdown("""
+        heading_color = "#f0e6f5" if st.session_state.get("dark_mode") else "#2b1830"
+        st.markdown(f"""
 <div style="text-align:center; margin-bottom:24px;">
     <div style="font-family:Poppins,sans-serif; font-size:2rem; font-weight:800;
-    letter-spacing:1px; color:#2b1830; text-transform:uppercase;">
+    letter-spacing:1px; color:{heading_color}; text-transform:uppercase;">
     Where does it hurt?
     </div>
     <div style="font-family:Poppins,sans-serif; font-size:1rem; color:#9B3DAE;
